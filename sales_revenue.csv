@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Region,Sales_Rep,Product_Category,Product_Name,Customer_Segment,Quantity,Unit_Price,Discount_Rate,Revenue,Deal_Status,Channel
+ORD-10890,02/13/2024,East,Aisha Patel,Hardware,ServerX,Startup,2,1544.63,0.11,2749.44,LOST,referral
+ORD-10094,2024-10-05,,Aisha Patel,Subscriptions,Pro Plan,,43,4749.43,0.24,155211.37,LOST,Online
+ORD-10107,2024-01-23,south,Mia Fernandez,Hardware,ServerX,smb,12,1402.69,0.27,12287.56,Won,Partner
+ORD-10609,08/07/2022,north,Mia Fernandez,Services,Onboarding,start-up,14,1769.22,0.03,24026.01,Pending,Direct
+ORD-10113,16-08-2023,north,James Carter,Consulting,Strategy Session,ENTERPRISE,35,3533.17,0.18,101401.98,Pending,partner
+ORD-10350,26-11-2022,central,,Hardware,Switch Pro,SMB,3,99999.0,0.16,4600.21,PENDING,partner
+ORD-10022,2023-10-05,North,Mia Fernandez,Consulting,Strategy Session,enterprise,5,2995.42,0.24,11382.6,WON,Partner
+ORD-10136,08/05/2023,EAST,Marcus Webb,Software,CRM Pro,Enterprise,31,265.5,0.14,7078.23,Pending,online
+ORD-10674,06/14/2023,south,Liam Brooks,Subscriptions,Enterprise Plan,Enterprise,17,3153.6,,47177.86,LOST,Online
+ORD-10046,10/02/2022,EAST,Zoe Nguyen,Software,AutoSync,startup,35,3750.2,0.19,106318.17,Pending,partner
+ORD-10436,09/23/2022,,Aisha Patel,Software,DataVault,enterprise,37,3226.67,0.14,102672.64,Won,Referral
+ORD-10437,30/09/2024,Central,Mia Fernandez,Services,Training,SMB,46,400.83,0.33,12353.58,In Progress,partner
+ORD-10813,04/09/2022,East,Liam Brooks,Hardware,Edge Router,start-up,9,1332.35,0.24,9113.27,In Progress,Online
+ORD-10271,2022-09-03,NORTH,Derek Stone,Subscriptions,Basic Plan,Startup,6,3570.23,0.34,14138.11,WON,Partner
+ORD-10563,23/02/2023,central,James Carter,Services,Support Plan,start-up,27,2247.11,0.23,46717.42,,Partner
+ORD-10214,"October 27, 2023",North,Derek Stone,Consulting,Strategy Session,SMB,34,889.44,0.13,26309.64,In Progress,Online
+ORD-10630,30-06-2023,West,Liam Brooks,Hardware,NAS Drive,SMB,47,3402.08,0.15,135913.1,lost,online
+ORD-10294,10/02/2024,North,Nina Torres,Software,CRM Pro,,31,1038.39,0.01,31868.19,In Progress,Referral
+ORD-10245,2022-02-03,NORTH,Zoe Nguyen,Consulting,Audit Package,SMB,42,1544.23,0.31,44751.79,WON,referral
+ORD-10746,11/01/2023,north,Liam Brooks,Software,DataVault,smb,19,3349.95,0.02,62376.07,PENDING,direct
+ORD-10435,12/11/2022,south,Nina Torres,Consulting,Strategy Session,enterprise,43,380.07,0.29,11603.54,PENDING,partner
+ORD-10455,2023-08-13,East,Sophia Lee,Services,Migration,Enterprise,14,3713.06,0.07,48344.04,LOST,online
+ORD-10954,2024-03-11,north,Derek Stone,Consulting,Strategy Session,SMB,17,4117.35,0.24,53196.16,PENDING,Partner
+ORD-10109,12/22/2024,EAST,Liam Brooks,Consulting,Strategy Session,Startup,47,1655.7,0.33,52137.99,lost,direct
+ORD-10050,13-05-2024,,Zoe Nguyen,Software,AutoSync,SMB,50,4788.56,0.01,237033.72,won,partner
+ORD-10755,24/01/2023,South,,Consulting,Strategy Session,SMB,7,1815.05,0.06,11943.03,Lost,Online
+ORD-10344,2023-11-24,EAST,James Carter,Subscriptions,Pro Plan,start-up,33,716.45,0.17,19623.57,In Progress,partner
+ORD-10911,22-12-2024,EAST,James Carter,Software,AutoSync,startup,23,1264.32,0.08,26753.01,WON,Online
+ORD-10526,02-07-2024,South,,Services,Onboarding,Enterprise,6,331.57,0.21,1571.64,In Progress,Online
+ORD-10610,11/09/2023,south,Liam Brooks,Subscriptions,Basic Plan,startup,17,3143.57,0.16,44890.18,Pending,direct
+ORD-10900,24/01/2022,NORTH,James Carter,Subscriptions,Enterprise Plan,startup,48,3684.14,0.34,116713.56,Won,direct
+ORD-10518,21/08/2023,North,Derek Stone,Consulting,Strategy Session,enterprise,17,706.07,0.1,10802.87,lost,
+ORD-10668,29-04-2024,central,Aisha Patel,Hardware,Edge Router,SMB,28,2096.38,0.14,,WON,Partner
+ORD-10720,"November 10, 2023",South,Liam Brooks,Hardware,Switch Pro,Enterprise,23,198.59,0.04,9999999.0,won,online
+ORD-10782,2022-07-25,West,Liam Brooks,Hardware,ServerX,smb,24,2286.99,0.24,41714.7,Lost,partner
+ORD-10571,"August 19, 2022",North,Marcus Webb,Subscriptions,Pro Plan,Enterprise,40,4212.34,0.16,,Pending,DIRECT
+ORD-10086,13/08/2023,NORTH,Sophia Lee,Consulting,Roadmap Workshop,smb,45,-50.0,0.3,40571.68,Pending,direct
+ORD-10129,25/04/2023,South,Derek Stone,Consulting,Audit Package,start-up,50,1444.77,0.13,62847.5,pending,Online
+ORD-10512,06/13/2024,north,Marcus Webb,Consulting,Roadmap Workshop,startup,12,2299.25,0.15,23452.35,In Progress,direct
+ORD-10124,17-10-2022,south,,Hardware,ServerX,smb,25,3235.29,0.11,71985.2,PENDING,Online
+ORD-10267,19-10-2022,north,James Carter,Hardware,Edge Router,Startup,48,470.27,0.03,,pending,direct
+ORD-10941,04/11/2022,south,Mia Fernandez,Subscriptions,Pro Plan,start-up,5,4008.94,0.01,19844.25,lost,referral
+ORD-10840,07/16/2023,south,James Carter,Subscriptions,Enterprise Plan,SMB,32,3439.24,0.3,77038.98,Pending,Direct
+ORD-10701,2024-06-29,South,James Carter,Services,Training,SMB,40,3144.92,0.28,90573.7,won,Online
+ORD-10582,07/06/2022,South,Marcus Webb,Software,AutoSync,Startup,0,3442.95,0.24,47099.56,lost,partner
+ORD-10931,07/27/2022,south,,Hardware,NAS Drive,Startup,46,3001.75,0.26,102179.57,,Online
+ORD-10958,2024-06-29,East,,Consulting,Audit Package,Enterprise,23,2528.16,0.3,40703.38,,Online
+ORD-10434,2023-01-15,Central,Nina Torres,Subscriptions,Pro Plan,enterprise,25,989.85,0.24,18807.15,PENDING,partner
+ORD-10283,10/02/2022,West,James Carter,Services,Support Plan,ENTERPRISE,46,928.43,0.28,30749.6,LOST,DIRECT
+ORD-10132,12-07-2024,North,Liam Brooks,Software,AutoSync,SMB,6,1905.82,0.01,11320.57,Pending,online
+ORD-10839,13-12-2023,West,Sophia Lee,Consulting,Audit Package,startup,33,3964.88,0.06,122990.58,PENDING,direct
+ORD-10269,15-03-2024,East,Zoe Nguyen,Services,Onboarding,SMB,50,3862.23,0.04,185387.04,WON,Online
+ORD-10683,2024-09-28,north,Ethan Ross,Services,Onboarding,startup,37,1583.02,0.16,49200.26,pending,Referral
+ORD-10407,26/09/2022,central,Aisha Patel,Software,DataVault,startup,13,771.93,,6623.16,Pending,Direct
+ORD-10396,07/04/2024,North,Derek Stone,Hardware,ServerX,enterprise,19,1732.83,0.04,31606.82,,Online
+ORD-10191,16/10/2023,Central,Nina Torres,Hardware,NAS Drive,SMB,20,1412.01,0.19,22874.56,Pending,Referral
+ORD-10597,"July 14, 2023",East,Zoe Nguyen,Subscriptions,Pro Plan,smb,50,2300.44,0.04,110421.12,WON,online
+ORD-10499,02/07/2024,East,Derek Stone,Services,Onboarding,start-up,9,509.94,0.28,3304.41,In Progress,Online
+ORD-10729,"September 19, 2023",EAST,,Hardware,Switch Pro,enterprise,49,465.94,0.16,19178.09,WON,direct
+ORD-10949,02/04/2024,Central,Ethan Ross,Subscriptions,Basic Plan,startup,26,3366.89,0.16,-1000.0,WON,Online
+ORD-10452,2023-05-12,south,Liam Brooks,Services,Onboarding,enterprise,28,1858.07,0.07,48384.14,Pending,partner
+ORD-10003,06/12/2023,south,James Carter,Consulting,Audit Package,enterprise,19,4155.55,0.22,61585.25,PENDING,Referral
+ORD-10177,02/10/2022,,Derek Stone,Hardware,Switch Pro,ENTERPRISE,42,1323.46,0.07,51694.35,pending,DIRECT
+ORD-10386,20-02-2024,Central,Mia Fernandez,Software,DataVault,smb,50,1200.94,0.3,42032.9,pending,referral
+ORD-10693,08-02-2022,west,Mia Fernandez,Software,DataVault,smb,27,2257.61,0.3,42668.83,In Progress,online
+ORD-10100,2024-12-13,north,Zoe Nguyen,Consulting,Roadmap Workshop,enterprise,33,1146.67,0.22,,pending,Partner
+ORD-10244,23/11/2023,Central,Marcus Webb,Subscriptions,Pro Plan,Enterprise,7,3149.59,,15653.46,Won,direct
+ORD-10048,"December 05, 2022",NORTH,Mia Fernandez,Subscriptions,Pro Plan,Enterprise,42,2171.63,0.3,63845.92,won,Direct
+ORD-10495,31/07/2022,central,Derek Stone,Software,DataVault,Startup,13,1468.51,,15463.41,Lost,Referral
+ORD-10814,11/15/2022,NORTH,Liam Brooks,Subscriptions,Basic Plan,Startup,44,3063.08,,101081.64,Lost,Online
+ORD-10698,21-10-2023,South,Zoe Nguyen,Subscriptions,Basic Plan,ENTERPRISE,39,2408.82,0.32,63881.91,Won,referral
+ORD-10709,2023-05-22,West,Aisha Patel,Services,Training,SMB,50,3019.83,0.15,128342.77,won,Direct
+ORD-10057,09/25/2024,East,Derek Stone,Services,Training,Enterprise,13,473.78,0.25,4619.35,PENDING,direct
+ORD-10489,25/04/2022,south,Mia Fernandez,Services,Onboarding,SMB,44,1692.01,0.32,50624.94,In Progress,direct
+ORD-10131,2024-11-22,south,Sophia Lee,Hardware,Edge Router,ENTERPRISE,6,4734.75,0.08,26135.82,Pending,Referral
+ORD-10126,09/22/2024,South,Marcus Webb,Hardware,Switch Pro,enterprise,50,2721.87,,100709.19,PENDING,direct
+ORD-10821,30-08-2022,south,Zoe Nguyen,Services,Support Plan,Enterprise,26,1126.44,0.11,26065.82,In Progress,Referral
+ORD-10706,07/09/2022,West,Zoe Nguyen,Services,Onboarding,SMB,18,4596.04,0.19,67010.26,Won,Partner
+ORD-10786,"August 25, 2022",central,Ethan Ross,Hardware,NAS Drive,ENTERPRISE,7,2202.72,0.25,11564.28,won,Referral
+ORD-10749,"February 03, 2023",North,James Carter,Services,Support Plan,Startup,32,2333.72,0.03,72438.67,pending,Online
+ORD-10841,06/03/2022,West,Ethan Ross,Consulting,Audit Package,smb,12,67.82,0.2,651.07,Lost,DIRECT
+ORD-10697,"July 27, 2023",South,Mia Fernandez,Subscriptions,Enterprise Plan,Startup,49,3553.38,0.1,156704.06,,DIRECT
+ORD-10548,29/06/2024,Central,Nina Torres,Consulting,Roadmap Workshop,Startup,50,595.16,,27377.36,Lost,Online
+ORD-10719,"March 28, 2022",South,James Carter,Hardware,NAS Drive,start-up,14,1233.14,0.26,12775.33,In Progress,DIRECT
+ORD-10473,"October 05, 2022",EAST,Nina Torres,Consulting,Strategy Session,start-up,46,4484.18,0.31,142327.87,In Progress,Online
+ORD-10864,2022-06-07,Central,Liam Brooks,Hardware,Edge Router,ENTERPRISE,45,4746.39,0.16,179413.54,PENDING,
+ORD-10584,2022-11-30,South,Marcus Webb,Subscriptions,Basic Plan,enterprise,30,4584.35,0.04,132029.28,Pending,Referral
+ORD-10459,"October 09, 2023",Central,Ethan Ross,Software,DataVault,start-up,46,156.37,0.09,6545.65,PENDING,online
+ORD-10515,"July 27, 2023",west,Sophia Lee,Subscriptions,Basic Plan,start-up,44,3186.75,0.28,100956.24,won,Online
+ORD-10774,11/09/2023,west,Liam Brooks,Subscriptions,Enterprise Plan,startup,7,3199.09,0.27,16347.35,won,referral
+ORD-10809,30-01-2023,Central,Ethan Ross,Subscriptions,Pro Plan,ENTERPRISE,28,1925.76,0.34,35588.04,LOST,direct
+ORD-10084,05-01-2024,EAST,Marcus Webb,Hardware,Edge Router,,12,440.89,0.3,3703.48,WON,Online
+ORD-10580,12-06-2024,central,Zoe Nguyen,Software,CRM Pro,smb,38,339.63,0.11,11486.29,WON,online
+ORD-10493,10/21/2024,South,Nina Torres,Consulting,Audit Package,ENTERPRISE,34,3399.75,0.05,109811.92,won,direct
+ORD-10305,29-09-2023,West,,Hardware,Switch Pro,start-up,18,3657.56,0.21,52010.5,LOST,DIRECT
+ORD-10681,2024-04-16,north,Nina Torres,Subscriptions,Basic Plan,ENTERPRISE,24,1559.38,0.13,32559.85,,partner
+ORD-10063,16-04-2022,West,Sophia Lee,Software,CloudDash,enterprise,41,3447.93,0.05,134296.87,In Progress,direct
+ORD-10152,25-11-2024,,Ethan Ross,Subscriptions,Basic Plan,startup,4,4165.38,0.18,13662.45,PENDING,
+ORD-10498,2024-06-27,NORTH,James Carter,Consulting,Strategy Session,startup,6,2161.01,0.06,12188.1,,partner
+ORD-10618,04-10-2023,Central,Liam Brooks,Hardware,NAS Drive,ENTERPRISE,12,1109.84,0.1,11986.27,,partner
+ORD-10594,06/28/2024,west,Liam Brooks,Services,Support Plan,enterprise,44,1868.83,0.0,82228.52,pending,referral
+ORD-10509,2022-04-19,west,Nina Torres,Software,CRM Pro,SMB,45,2971.31,0.22,104292.98,Pending,online
+ORD-10520,09/20/2024,,James Carter,Services,Support Plan,ENTERPRISE,49,4968.25,0.27,177714.3,pending,partner
+ORD-10172,11-06-2022,West,Derek Stone,Consulting,Strategy Session,smb,45,1394.53,0.04,60243.7,PENDING,Online
+ORD-10292,10-07-2022,Central,Mia Fernandez,Consulting,Audit Package,ENTERPRISE,28,827.66,0.04,22247.5,In Progress,referral
+ORD-10456,07-12-2024,west,Zoe Nguyen,Subscriptions,Enterprise Plan,Enterprise,38,4534.9,0.18,141307.48,Pending,partner
+ORD-10481,"December 30, 2022",Central,Nina Torres,Software,AutoSync,Startup,25,4110.31,0.27,75013.16,LOST,DIRECT
+ORD-10138,23/12/2023,East,Marcus Webb,Consulting,Roadmap Workshop,ENTERPRISE,5,3594.42,0.33,12041.31,WON,DIRECT
+ORD-10219,14/02/2023,west,Marcus Webb,Subscriptions,Enterprise Plan,start-up,29,3998.54,0.29,82329.94,Lost,Direct
+ORD-10742,"May 21, 2022",South,Marcus Webb,Hardware,Edge Router,,39,2896.7,0.11,100544.46,WON,DIRECT
+ORD-10451,09/25/2022,West,Ethan Ross,Hardware,Edge Router,SMB,40,4985.54,0.18,163525.71,PENDING,direct
+ORD-10685,"April 18, 2024",South,Liam Brooks,Services,Onboarding,start-up,42,488.22,0.06,19274.93,,Online
+ORD-10539,"July 19, 2022",Central,Marcus Webb,Subscriptions,Basic Plan,enterprise,39,4005.92,0.08,143732.41,pending,Partner
+ORD-10704,14/05/2022,NORTH,Sophia Lee,Hardware,NAS Drive,smb,44,164.43,0.34,4775.05,Lost,Online
+ORD-10074,2024-06-24,South,Derek Stone,Subscriptions,Pro Plan,start-up,8,192.9,0.22,1203.7,pending,Direct
+ORD-10421,"March 09, 2024",South,Derek Stone,Software,DataVault,smb,42,3727.49,0.28,112719.3,lost,direct
+ORD-10637,06/11/2022,central,Zoe Nguyen,Software,DataVault,Enterprise,12,227.52,0.09,2484.52,Lost,Online
+ORD-10781,30-01-2024,East,Aisha Patel,Services,Migration,startup,4,4877.76,0.31,13462.62,In Progress,direct
+ORD-10569,29/11/2022,south,Sophia Lee,Software,CloudDash,ENTERPRISE,21,822.46,,11399.3,pending,referral
+ORD-10639,2022-10-31,East,Sophia Lee,Hardware,NAS Drive,ENTERPRISE,18,2838.07,0.23,39335.65,PENDING,Online
+ORD-10299,25/10/2024,west,Mia Fernandez,Subscriptions,Basic Plan,start-up,11,4862.22,0.28,,WON,direct
+ORD-10651,"July 20, 2024",Central,Derek Stone,Services,Support Plan,ENTERPRISE,48,4911.82,0.09,214548.3,won,DIRECT
+ORD-10081,"October 23, 2022",central,Marcus Webb,Software,AutoSync,Startup,45,2017.54,0.03,88065.62,In Progress,Partner
+ORD-10838,04-12-2023,West,Aisha Patel,Subscriptions,Basic Plan,ENTERPRISE,27,2774.95,0.09,68180.52,Lost,direct
+ORD-10832,01/29/2023,EAST,James Carter,Subscriptions,Basic Plan,Enterprise,27,2648.61,0.25,53634.35,Pending,referral
+ORD-10115,05-05-2024,north,Liam Brooks,Software,DataVault,start-up,6,2211.72,0.04,12739.51,LOST,direct
+ORD-10477,2023-02-20,,Derek Stone,Software,CloudDash,start-up,1,-50.0,0.17,2539.4,PENDING,Online
+ORD-10370,12-06-2024,East,Marcus Webb,Services,Migration,start-up,50,1562.09,0.19,63264.65,LOST,Online
+ORD-10560,03/06/2023,East,Nina Torres,Services,Migration,smb,5,1895.43,0.16,7960.81,,online
+ORD-10588,"May 02, 2022",north,Derek Stone,Software,AutoSync,Enterprise,8,4604.49,0.07,34257.41,,Online
+ORD-10926,07/29/2022,West,Sophia Lee,Software,CRM Pro,start-up,18,191.5,0.23,2654.19,,referral
+ORD-10154,14-09-2022,Central,Ethan Ross,Software,DataVault,ENTERPRISE,47,4514.9,0.12,186736.26,In Progress,Partner
+ORD-10775,12/07/2023,south,Aisha Patel,Consulting,Strategy Session,,1,529.51,0.27,386.54,pending,Referral
+ORD-10923,05/12/2023,north,Sophia Lee,Consulting,Strategy Session,Enterprise,30,150000.0,0.07,114435.48,Lost,online
+ORD-10348,19-08-2023,central,Marcus Webb,Hardware,Switch Pro,enterprise,36,2427.83,0.2,69921.5,LOST,online
+ORD-10266,2023-12-11,East,James Carter,Consulting,Strategy Session,SMB,16,2128.09,0.34,22472.63,PENDING,Online
+ORD-10360,2024-12-28,central,Sophia Lee,Hardware,NAS Drive,startup,14,2711.88,0.25,28474.74,won,Online
+ORD-10467,02/10/2022,Central,Zoe Nguyen,Services,Migration,start-up,9,860.74,0.08,7126.93,pending,Online
+ORD-10574,"January 28, 2024",East,James Carter,Services,Training,smb,36,483.61,0.25,13057.47,,Online
+ORD-10558,2023-03-01,Central,Nina Torres,Software,CRM Pro,enterprise,24,2353.5,0.01,55919.16,Pending,partner
+ORD-10943,13-04-2022,NORTH,Nina Torres,Services,Support Plan,enterprise,10,4979.78,,46311.95,lost,referral
+ORD-10006,"December 01, 2022",EAST,Derek Stone,Subscriptions,Enterprise Plan,Startup,15,4117.92,0.28,44473.54,Won,Referral
+ORD-10307,"November 03, 2024",NORTH,,Subscriptions,Basic Plan,SMB,4,1284.98,0.16,4317.53,Lost,Online
+ORD-10598,"September 29, 2024",South,Marcus Webb,Software,CRM Pro,enterprise,44,182.41,0.06,7544.48,pending,Online
+ORD-10373,"January 20, 2024",South,Mia Fernandez,Services,Migration,enterprise,24,2535.73,0.23,46860.29,Pending,
+ORD-10903,2022-07-10,West,Nina Torres,Hardware,ServerX,start-up,27,414.2,0.34,7381.04,Won,referral
+ORD-10040,04/05/2022,West,Mia Fernandez,Software,CloudDash,SMB,32,2028.28,0.05,61659.71,Pending,online
+ORD-10405,17/02/2024,north,Nina Torres,Services,Training,ENTERPRISE,17,1223.84,0.16,17476.44,,DIRECT
+ORD-10552,15/12/2022,west,Aisha Patel,Software,CloudDash,SMB,31,4193.1,0.1,116987.49,In Progress,Online
+ORD-10300,2022-09-16,EAST,Sophia Lee,Consulting,Roadmap Workshop,ENTERPRISE,17,1632.76,0.25,20817.69,In Progress,Referral
+ORD-10017,08/26/2024,West,Liam Brooks,Hardware,ServerX,startup,28,2084.96,0.3,40865.22,LOST,online
+ORD-10167,02/18/2024,,Aisha Patel,Software,DataVault,Enterprise,21,2122.96,,38340.66,pending,DIRECT
+ORD-10911,22-12-2024,EAST,James Carter,Software,AutoSync,startup,23,1264.32,0.08,26753.01,WON,Online
+ORD-10816,2023-09-18,south,Liam Brooks,Services,Onboarding,enterprise,6,867.31,0.02,5099.78,Lost,direct
+ORD-10522,"August 08, 2024",West,Derek Stone,Consulting,Audit Package,startup,17,768.49,0.3,9145.03,pending,Partner
+ORD-10478,21/03/2023,central,Zoe Nguyen,Consulting,Audit Package,enterprise,39,82.54,,2221.15,In Progress,Online
+ORD-10678,09/02/2024,West,Sophia Lee,Services,Migration,startup,38,2519.2,0.15,81370.16,lost,referral
+ORD-10659,10/10/2024,central,Nina Torres,Consulting,Strategy Session,ENTERPRISE,47,1001.4,0.12,,lost,Partner
+ORD-10743,20/02/2023,central,Zoe Nguyen,Services,Onboarding,ENTERPRISE,5,4131.68,0.21,16320.14,pending,Referral
+ORD-10018,2022-04-21,North,Liam Brooks,Services,Support Plan,SMB,35,2270.64,0.15,67551.54,Lost,partner
+ORD-10032,04/23/2024,,Marcus Webb,Software,CRM Pro,,13,4092.1,,44685.73,Lost,direct
+ORD-10053,"February 08, 2024",South,Sophia Lee,Subscriptions,Basic Plan,smb,8,3991.32,0.2,25544.45,In Progress,Referral
+ORD-10377,09/06/2022,south,Liam Brooks,Hardware,Edge Router,Startup,32,3973.65,0.31,87738.19,LOST,online
+ORD-10204,14-12-2024,East,Derek Stone,Consulting,Audit Package,startup,37,1253.88,0.24,35259.11,,partner
+ORD-10684,"November 23, 2023",West,Mia Fernandez,Hardware,Edge Router,start-up,10,4338.41,0.11,38611.85,pending,
+ORD-10397,17-11-2024,west,Mia Fernandez,Services,Migration,startup,31,3861.34,0.27,87382.12,In Progress,Online
+ORD-10272,22/03/2024,North,Derek Stone,Services,Onboarding,startup,36,3752.99,0.09,122947.95,pending,partner
+ORD-10258,2022-12-26,North,Marcus Webb,Software,CloudDash,Startup,34,3925.79,0.25,100107.64,PENDING,partner
+ORD-10896,03-07-2023,south,Liam Brooks,Hardware,Edge Router,Enterprise,2,809.21,0.13,1408.03,Won,direct
+ORD-10078,09/29/2024,West,Ethan Ross,Consulting,Audit Package,startup,21,4354.53,0.34,60353.79,pending,Referral
+ORD-10199,05-05-2024,NORTH,Aisha Patel,Services,Migration,SMB,36,3290.31,0.24,90022.88,pending,Partner
+ORD-10636,30-07-2023,EAST,Derek Stone,Services,Training,Startup,11,1611.94,0.35,11525.37,Pending,direct
+ORD-10042,"October 01, 2022",central,,Subscriptions,Pro Plan,,29,4491.18,0.26,96380.72,PENDING,Partner
+ORD-10718,15/08/2024,East,Mia Fernandez,Subscriptions,Enterprise Plan,smb,22,853.29,0.16,15768.8,Pending,Referral
+ORD-10957,"May 03, 2024",NORTH,James Carter,Services,Onboarding,startup,38,1548.67,0.23,45314.08,Won,Direct
+ORD-10027,03-10-2022,north,Sophia Lee,Subscriptions,Pro Plan,smb,14,3602.18,0.07,46900.38,In Progress,Partner
+ORD-10262,14/03/2022,central,Liam Brooks,Hardware,NAS Drive,startup,18,4138.69,0.2,59597.14,LOST,DIRECT
+ORD-10308,01/09/2024,south,Nina Torres,Consulting,Roadmap Workshop,enterprise,16,1893.71,0.21,23936.49,Won,partner
+ORD-10025,2022-05-29,West,Mia Fernandez,Subscriptions,Basic Plan,SMB,17,705.66,0.12,10556.67,PENDING,Online
+ORD-10368,24-09-2024,East,Marcus Webb,Hardware,Switch Pro,enterprise,21,2455.01,0.11,45884.14,Lost,partner
+ORD-10899,16/09/2022,north,Mia Fernandez,Consulting,Roadmap Workshop,ENTERPRISE,14,511.61,0.01,7090.91,LOST,Referral
+ORD-10230,16-12-2024,Central,Liam Brooks,Subscriptions,Enterprise Plan,enterprise,23,4235.31,0.22,75981.46,LOST,direct
+ORD-10796,21-04-2022,West,Marcus Webb,Subscriptions,Pro Plan,start-up,10,1088.34,0.28,7836.05,lost,Online
+ORD-10465,02-03-2022,EAST,Liam Brooks,Services,Training,ENTERPRISE,7,701.15,0.01,4858.97,,direct
+ORD-10208,2024-03-26,south,Marcus Webb,Subscriptions,Enterprise Plan,startup,22,1950.04,0.26,31746.65,PENDING,direct
+ORD-10134,08-02-2022,South,Marcus Webb,Subscriptions,Basic Plan,smb,20,653.15,0.08,12017.96,Lost,Online
+ORD-10105,17-07-2022,NORTH,Ethan Ross,Software,CRM Pro,,43,4708.59,0.15,172098.96,LOST,DIRECT
+ORD-10007,01-04-2024,north,Aisha Patel,Subscriptions,Basic Plan,start-up,42,2321.32,0.09,88720.85,Pending,referral
+ORD-10253,"May 06, 2023",,Sophia Lee,Hardware,ServerX,Enterprise,21,703.32,0.3,10338.8,LOST,partner
+ORD-10295,16-12-2022,north,Zoe Nguyen,Software,CloudDash,start-up,43,1361.77,0.22,45673.77,pending,Referral
+ORD-10225,15-12-2023,East,Zoe Nguyen,Hardware,Edge Router,Startup,7,2218.92,0.24,11804.65,pending,DIRECT
+ORD-10959,08-03-2023,west,Liam Brooks,Subscriptions,Basic Plan,ENTERPRISE,42,3610.09,0.12,133428.93,LOST,
+ORD-10752,12/26/2024,West,James Carter,Subscriptions,Pro Plan,smb,4,3011.12,0.02,11803.59,pending,Partner
+ORD-10686,20/02/2022,central,Derek Stone,Subscriptions,Enterprise Plan,enterprise,40,2732.08,0.27,79776.74,Lost,partner
+ORD-10708,06-11-2023,north,Sophia Lee,Software,CloudDash,Enterprise,41,4678.55,0.29,136192.59,In Progress,direct
+ORD-10780,2022-03-27,South,Ethan Ross,Software,AutoSync,start-up,49,1718.3,0.15,71567.19,pending,referral
+ORD-10561,23/10/2024,north,Zoe Nguyen,Subscriptions,Pro Plan,Startup,13,4464.92,0.16,48756.93,won,online
+ORD-10544,19/03/2022,NORTH,Zoe Nguyen,Subscriptions,Enterprise Plan,smb,27,72.62,,1803.88,,Online
+ORD-10846,02/02/2022,central,Mia Fernandez,Software,AutoSync,SMB,15,1655.1,0.07,23088.64,pending,DIRECT
+ORD-10669,28/07/2024,central,Nina Torres,Software,DataVault,Enterprise,5,469.65,0.11,2089.94,PENDING,partner
+ORD-10211,2024-02-18,Central,Derek Stone,Hardware,ServerX,enterprise,10,1931.0,0.27,14096.3,lost,Direct
+ORD-10119,13-09-2023,Central,James Carter,Services,Onboarding,smb,29,236.16,0.13,5958.32,pending,partner
+ORD-10384,"October 29, 2024",NORTH,Mia Fernandez,Software,CloudDash,Enterprise,33,3774.3,0.03,120815.34,PENDING,DIRECT
+ORD-10080,"November 08, 2022",North,Marcus Webb,Subscriptions,Basic Plan,start-up,34,4556.69,0.01,153378.19,won,Online
+ORD-10799,27-09-2024,Central,Marcus Webb,Consulting,Audit Package,startup,41,3283.32,0.13,117116.02,lost,Direct
+ORD-10858,07/25/2023,north,Nina Torres,Hardware,Edge Router,Startup,32,2147.97,0.24,52238.63,LOST,online
+ORD-10692,"October 30, 2024",north,Derek Stone,Software,CloudDash,startup,31,193.09,0.22,4668.92,won,Online
+ORD-10808,"December 01, 2022",West,Sophia Lee,Services,Migration,ENTERPRISE,14,399.26,0.26,4136.33,PENDING,Online
+ORD-10888,26-10-2023,North,,Consulting,Audit Package,Startup,44,2061.61,0.18,74382.89,won,Referral
+ORD-10411,24-12-2022,East,Nina Torres,Subscriptions,Enterprise Plan,start-up,25,3087.64,0.16,64840.44,won,online
+ORD-10600,30-10-2024,west,Nina Torres,Subscriptions,Basic Plan,startup,25,2278.07,0.3,39866.23,won,online
+ORD-10562,"June 14, 2022",NORTH,Derek Stone,Software,DataVault,smb,45,782.37,0.05,33446.32,won,online
+ORD-10831,31/07/2022,Central,Marcus Webb,Hardware,NAS Drive,SMB,9,2036.35,0.1,16494.43,won,Referral
+ORD-10628,2023-04-14,West,Aisha Patel,Services,Support Plan,Enterprise,40,2173.07,0.09,79099.75,Pending,DIRECT
+ORD-10595,2024-10-03,EAST,Zoe Nguyen,Subscriptions,Basic Plan,ENTERPRISE,26,3490.43,0.34,59895.78,Pending,partner
+ORD-10420,23/08/2023,South,James Carter,Subscriptions,Basic Plan,startup,28,2004.02,,52745.81,PENDING,Partner
+ORD-10886,06/16/2023,North,Sophia Lee,Consulting,Audit Package,ENTERPRISE,23,4712.61,0.17,89963.72,Lost,Online
+ORD-10935,08/19/2023,west,,Hardware,ServerX,enterprise,48,1711.6,0.17,68190.14,lost,online
+ORD-10474,04-07-2022,East,Marcus Webb,Software,CRM Pro,start-up,6,2642.9,0.13,13795.94,LOST,Direct
+ORD-10433,2022-11-25,west,Marcus Webb,Consulting,Audit Package,Startup,1,3890.79,0.18,3190.45,pending,online
+ORD-10015,2023-11-24,Central,Ethan Ross,Hardware,NAS Drive,Enterprise,46,3173.96,0.08,134321.99,won,partner
+ORD-10817,09/08/2023,West,James Carter,Consulting,Audit Package,,44,4989.87,0.31,151492.45,,DIRECT
+ORD-10224,10/21/2024,East,James Carter,Consulting,Audit Package,startup,8,4165.02,,24656.92,won,Online
+ORD-10416,06/26/2024,NORTH,Ethan Ross,Hardware,ServerX,Startup,31,2362.61,0.3,51268.64,LOST,Online
+ORD-10101,03-12-2024,West,James Carter,Software,CloudDash,startup,32,3576.39,0.16,96133.36,won,online
+ORD-10939,25-12-2022,central,Nina Torres,Services,Migration,smb,13,253.44,0.18,2701.67,lost,direct
+ORD-10889,"January 08, 2022",NORTH,Zoe Nguyen,Subscriptions,Basic Plan,SMB,27,3497.41,0.27,68933.95,Lost,Direct
+ORD-10153,09/15/2023,NORTH,Nina Torres,Hardware,Switch Pro,enterprise,13,3193.53,0.19,33627.87,lost,referral
+ORD-10586,19-12-2022,North,Sophia Lee,Hardware,NAS Drive,,9,1088.71,,6466.94,lost,referral
+ORD-10836,28/01/2022,NORTH,Nina Torres,Services,Training,Startup,42,150000.0,0.2,47575.58,Lost,DIRECT
+ORD-10030,"October 31, 2022",NORTH,James Carter,Services,Onboarding,Startup,500,1285.17,0.04,54285.58,Lost,
+ORD-10874,26/11/2022,west,Mia Fernandez,Subscriptions,Pro Plan,ENTERPRISE,19,1833.57,0.3,24386.48,LOST,referral
+ORD-10820,2023-12-25,EAST,Zoe Nguyen,Consulting,Audit Package,enterprise,44,1286.34,0.19,45845.16,LOST,partner
+ORD-10143,05/22/2024,West,Nina Torres,Consulting,Roadmap Workshop,Startup,28,1409.05,0.34,26039.24,In Progress,DIRECT
+ORD-10259,08-12-2022,NORTH,Derek Stone,Software,AutoSync,startup,34,366.17,0.25,9337.34,lost,Referral
+ORD-10236,11/10/2024,west,Sophia Lee,Subscriptions,Pro Plan,,49,255.97,0.25,9406.9,PENDING,Partner
+ORD-10627,08/01/2023,north,Liam Brooks,Services,Migration,startup,15,152.64,0.01,2266.7,In Progress,Online
+ORD-10811,15-11-2023,NORTH,Aisha Patel,Services,Onboarding,,25,4761.33,0.27,86894.27,Lost,Online
+ORD-10625,"January 07, 2022",South,Derek Stone,Services,Onboarding,enterprise,16,2606.01,0.34,27519.47,WON,referral
+ORD-10174,2022-10-09,west,Marcus Webb,Consulting,Audit Package,SMB,21,1462.81,0.02,30104.63,lost,partner
+ORD-10064,2023-09-15,South,Sophia Lee,Subscriptions,Enterprise Plan,SMB,25,2280.05,0.15,48451.06,PENDING,direct
+ORD-10892,08/21/2022,West,Liam Brooks,Services,Support Plan,startup,19,4233.2,0.24,61127.41,Pending,partner
+ORD-10213,06/28/2022,EAST,Zoe Nguyen,Subscriptions,Basic Plan,Enterprise,23,2793.39,0.21,50755.9,won,Referral
+ORD-10592,05/18/2024,west,Aisha Patel,Consulting,Audit Package,enterprise,8,2622.65,0.17,17414.4,pending,direct
+ORD-10879,"September 22, 2022",East,Ethan Ross,Subscriptions,Pro Plan,enterprise,33,2277.96,,51869.15,,direct
+ORD-10288,06/09/2022,East,Nina Torres,Hardware,ServerX,Startup,1,1362.8,0.09,1240.15,pending,Direct
+ORD-10716,"October 29, 2022",south,Mia Fernandez,Services,Training,Enterprise,38,3305.5,0.05,119328.55,PENDING,Online
+ORD-10936,20/12/2023,south,Zoe Nguyen,Services,Migration,Enterprise,20,3565.28,0.31,49200.86,LOST,Referral
+ORD-10326,08-02-2024,west,Mia Fernandez,Software,CRM Pro,Enterprise,45,623.16,0.16,23555.45,Won,referral
+ORD-10725,2023-05-16,Central,Mia Fernandez,Hardware,Switch Pro,ENTERPRISE,16,313.63,0.28,3613.02,LOST,referral
+ORD-10644,2024-03-27,North,Aisha Patel,Hardware,Edge Router,smb,8,1527.81,0.28,8800.19,WON,Online
+ORD-10389,"July 19, 2023",South,,Subscriptions,Basic Plan,Startup,36,2444.61,0.35,57203.87,PENDING,Online
+ORD-10753,02/12/2024,South,,Hardware,ServerX,Enterprise,2,4946.99,0.12,8706.7,Pending,partner
+ORD-10125,19/09/2022,north,Liam Brooks,Subscriptions,Basic Plan,Startup,12,4758.29,0.12,50247.54,lost,online
+ORD-10792,08/31/2023,West,Zoe Nguyen,Hardware,Switch Pro,ENTERPRISE,39,1634.69,0.18,52277.39,Won,Partner
+ORD-10464,"October 04, 2022",NORTH,Mia Fernandez,Hardware,ServerX,enterprise,0,4205.64,0.05,83902.52,WON,Partner
+ORD-10676,28/12/2024,South,Nina Torres,Services,Support Plan,startup,48,1275.78,0.11,54501.32,PENDING,partner
+ORD-10606,15/05/2024,west,Liam Brooks,Services,Migration,Enterprise,25,2873.25,0.11,63929.81,LOST,partner
+ORD-10319,"September 04, 2023",North,Marcus Webb,Hardware,Switch Pro,startup,30,758.96,0.3,15938.16,In Progress,Referral
+ORD-10466,01/07/2023,Central,Mia Fernandez,Hardware,NAS Drive,SMB,23,443.4,0.27,,Won,online
+ORD-10859,27/04/2024,central,Nina Torres,Hardware,NAS Drive,startup,36,2510.66,0.19,73210.85,Pending,Referral
+ORD-10403,"July 17, 2023",NORTH,Ethan Ross,Services,Support Plan,ENTERPRISE,34,4006.39,0.17,113060.33,Won,direct
+ORD-10771,"November 09, 2024",central,Nina Torres,Software,CloudDash,SMB,31,220.81,0.28,4928.48,Lost,partner
+ORD-10275,2023-11-11,North,Zoe Nguyen,Software,CloudDash,startup,2,1944.51,0.15,3305.67,pending,direct
+ORD-10638,"August 14, 2024",north,,Software,AutoSync,start-up,32,606.83,0.25,14563.92,pending,Online
+ORD-10646,2024-05-16,EAST,Nina Torres,Subscriptions,Pro Plan,,3,2591.04,0.34,5130.26,won,Direct
+ORD-10778,"April 17, 2024",central,Mia Fernandez,Software,CRM Pro,smb,25,667.17,0.02,16345.66,won,Direct
+ORD-10849,2023-01-20,NORTH,,Consulting,Audit Package,startup,47,2657.55,0.25,93678.64,won,Partner
+ORD-10427,12/03/2024,West,Liam Brooks,Services,Support Plan,Enterprise,34,654.6,0.17,18472.81,PENDING,Partner
+ORD-10343,2024-04-18,,Mia Fernandez,Hardware,ServerX,startup,30,4131.54,0.07,115269.97,Lost,DIRECT
+ORD-10729,"September 19, 2023",EAST,,Hardware,Switch Pro,enterprise,49,465.94,0.16,19178.09,WON,direct
+ORD-10806,11/11/2024,north,James Carter,Hardware,NAS Drive,,14,4789.24,0.21,52968.99,lost,Partner
+ORD-10696,11-11-2024,North,Marcus Webb,Subscriptions,Pro Plan,enterprise,45,658.74,0.05,28161.13,Pending,direct
+ORD-10462,2022-10-09,EAST,Ethan Ross,Subscriptions,Pro Plan,SMB,10,2161.0,0.11,19232.9,In Progress,Referral
+ORD-10374,06/12/2022,NORTH,Zoe Nguyen,Hardware,NAS Drive,start-up,3,1133.15,0.17,2821.54,LOST,online
+ORD-10135,2024-07-25,north,Zoe Nguyen,Subscriptions,Enterprise Plan,SMB,19,2174.73,0.22,32229.5,WON,Partner
+ORD-10623,2023-07-16,West,Zoe Nguyen,Consulting,Roadmap Workshop,startup,11,3507.49,0.18,31637.56,won,DIRECT
+ORD-10317,10-01-2023,central,Sophia Lee,Hardware,NAS Drive,smb,22,1889.83,0.2,33261.01,Pending,online
+ORD-10247,"April 25, 2023",central,Sophia Lee,Software,DataVault,start-up,9,2988.71,0.18,22056.68,,partner
+ORD-10301,2022-05-18,EAST,Ethan Ross,Consulting,Audit Package,start-up,45,3134.14,0.18,115649.77,Won,Online
+ORD-10287,12/03/2024,North,Marcus Webb,Subscriptions,Enterprise Plan,SMB,7,4686.6,0.05,31165.89,,Partner
+ORD-10356,12/01/2023,north,Ethan Ross,Hardware,Edge Router,enterprise,15,4422.81,0.23,51083.46,LOST,DIRECT
+ORD-10727,08-11-2024,West,Ethan Ross,Consulting,Audit Package,Startup,45,2442.32,0.33,73635.95,PENDING,Online
+ORD-10953,01/01/2022,Central,Sophia Lee,Subscriptions,Basic Plan,SMB,31,172.05,0.18,4373.51,won,Referral
+ORD-10578,08/07/2024,North,James Carter,Hardware,Switch Pro,start-up,42,3346.27,,126489.01,won,Online
+ORD-10662,"July 26, 2022",West,Derek Stone,Hardware,ServerX,Enterprise,17,1817.37,0.06,29041.57,LOST,Referral
+ORD-10852,01-12-2022,East,Zoe Nguyen,Hardware,ServerX,smb,8,154.98,0.02,,PENDING,Direct
+ORD-10612,07/06/2024,central,James Carter,Subscriptions,Pro Plan,start-up,16,794.84,0.24,9665.25,WON,Online
+ORD-10375,09-05-2022,East,Aisha Patel,Software,AutoSync,startup,30,4413.68,0.01,131086.3,pending,Partner
+ORD-10146,09/10/2022,East,Liam Brooks,Services,Training,SMB,2,3691.59,0.17,6128.04,won,Direct
+ORD-10514,2024-01-22,North,,Consulting,Strategy Session,start-up,10,3664.42,0.18,30048.24,won,online
+ORD-10797,2023-02-05,East,Mia Fernandez,Software,CloudDash,startup,4,525.44,0.34,1387.16,WON,online
+ORD-10441,2024-05-24,NORTH,Marcus Webb,Subscriptions,Enterprise Plan,Startup,35,4992.25,0.16,146772.15,WON,Direct
+ORD-10913,22/04/2023,north,Liam Brooks,Services,Support Plan,SMB,36,1426.34,,0.0,won,direct
+ORD-10140,2023-06-03,central,Aisha Patel,Services,Onboarding,Startup,8,4006.74,0.15,27245.83,lost,Direct
+ORD-10884,2024-02-18,East,Liam Brooks,Consulting,Strategy Session,SMB,49,3434.17,0.09,153129.64,Won,DIRECT
+ORD-10615,2024-05-14,South,Marcus Webb,Services,Onboarding,smb,43,2776.0,0.23,91913.36,lost,online
+ORD-10910,14/02/2023,East,Nina Torres,Software,DataVault,Enterprise,17,2955.0,0.1,45211.5,,Partner
+ORD-10735,22/11/2024,,Zoe Nguyen,Consulting,Strategy Session,Startup,28,3862.15,0.24,82186.55,Lost,partner
+ORD-10494,"March 16, 2022",EAST,Ethan Ross,Software,AutoSync,Enterprise,6,1699.78,0.31,7037.09,In Progress,referral
+ORD-10026,05/21/2022,East,Derek Stone,Hardware,Switch Pro,Enterprise,20,4662.19,,,PENDING,direct
+ORD-10155,2022-03-26,north,James Carter,Subscriptions,Enterprise Plan,SMB,27,3109.64,0.01,83120.68,In Progress,online
+ORD-10872,11-03-2024,NORTH,Sophia Lee,Services,Onboarding,ENTERPRISE,38,3990.54,0.17,125861.63,Won,DIRECT
+ORD-10383,"December 03, 2023",Central,Mia Fernandez,Software,CloudDash,startup,7,131.99,0.18,757.62,WON,DIRECT
+ORD-10648,11/01/2022,central,Derek Stone,Hardware,Edge Router,smb,4,2777.42,0.32,7554.58,In Progress,Direct
+ORD-10671,16-09-2023,East,James Carter,Services,Support Plan,startup,42,1065.41,0.19,36245.25,pending,
+ORD-10893,14-06-2024,Central,Sophia Lee,Software,CRM Pro,Enterprise,27,0.0,0.26,11252.54,In Progress,Online
+ORD-10369,19/09/2023,NORTH,,Subscriptions,Pro Plan,startup,1,1600.41,0.27,1168.3,WON,referral
+ORD-10873,18-03-2022,NORTH,Marcus Webb,Consulting,Roadmap Workshop,enterprise,14,4047.01,0.23,43626.77,Lost,online
+ORD-10099,2022-08-14,NORTH,James Carter,Services,Training,Enterprise,17,309.38,0.26,3892.0,WON,Referral
+ORD-10366,24-06-2022,South,Nina Torres,Hardware,NAS Drive,ENTERPRISE,15,3103.58,0.09,42363.87,WON,referral
+ORD-10810,2023-05-22,south,Sophia Lee,Subscriptions,Enterprise Plan,startup,22,3218.88,0.13,61609.36,won,partner
+ORD-10166,03/05/2024,south,,Subscriptions,Pro Plan,SMB,38,2428.22,0.18,75663.34,,Online
+ORD-10758,03/06/2024,East,Marcus Webb,Services,Migration,enterprise,2,3062.24,0.2,4899.58,LOST,online
+ORD-10023,"April 27, 2023",north,Mia Fernandez,Hardware,ServerX,enterprise,43,2939.18,0.18,,Pending,Direct
+ORD-10541,2022-05-10,south,Marcus Webb,Consulting,Roadmap Workshop,Startup,11,2221.37,0.32,16615.85,PENDING,Direct
+ORD-10204,14-12-2024,East,Derek Stone,Consulting,Audit Package,startup,37,1253.88,0.24,35259.11,,partner
+ORD-10033,09/18/2023,South,James Carter,Hardware,Switch Pro,smb,50,1431.67,0.22,,won,direct
+ORD-10889,"January 08, 2022",NORTH,Zoe Nguyen,Subscriptions,Basic Plan,SMB,27,3497.41,0.27,68933.95,Lost,Direct
+ORD-10553,05/26/2024,South,Nina Torres,Consulting,Roadmap Workshop,ENTERPRISE,1,2117.97,0.02,2075.61,In Progress,Referral
+ORD-10357,10-11-2023,south,Aisha Patel,Subscriptions,Enterprise Plan,Enterprise,43,1762.74,0.08,69733.99,won,
+ORD-10865,"November 22, 2023",central,James Carter,Services,Support Plan,Enterprise,39,3768.11,0.18,120504.16,Won,Online
+ORD-10930,15/03/2022,south,Aisha Patel,Software,AutoSync,,45,3593.33,0.14,139061.87,In Progress,partner
+ORD-10513,"July 10, 2024",East,Aisha Patel,Hardware,ServerX,start-up,46,2533.56,0.14,100227.63,,Referral
+ORD-10009,2024-10-07,North,Sophia Lee,Hardware,NAS Drive,startup,5,1954.6,0.21,7720.67,In Progress,Online
+ORD-10010,16/08/2024,south,Ethan Ross,Software,AutoSync,Startup,19,2202.09,0.16,35145.36,,online
+ORD-10079,05/05/2023,EAST,Aisha Patel,Consulting,Audit Package,start-up,25,4942.65,0.28,88967.7,Pending,online
+ORD-10565,22/09/2024,central,Ethan Ross,Subscriptions,Pro Plan,smb,9,4496.5,0.11,36016.97,In Progress,Partner
+ORD-10332,19-08-2023,,Nina Torres,Consulting,Strategy Session,Enterprise,9,3333.61,0.06,28202.34,Won,Online
+ORD-10118,2022-11-10,NORTH,Zoe Nguyen,Consulting,Roadmap Workshop,Startup,10,2226.83,0.16,18705.37,LOST,Referral
+ORD-10916,06/02/2022,North,Zoe Nguyen,Services,Migration,Enterprise,34,243.65,,6378.76,PENDING,direct
+ORD-10234,"January 20, 2022",NORTH,Aisha Patel,Consulting,Audit Package,start-up,46,4207.46,0.17,160640.82,Pending,
+ORD-10711,2024-06-24,south,Mia Fernandez,Consulting,Strategy Session,Enterprise,4,1509.84,0.13,5254.24,PENDING,Partner
+ORD-10532,"March 19, 2022",south,,Services,Onboarding,start-up,28,2049.37,0.25,43036.77,pending,Direct
+ORD-10289,19-05-2022,south,Sophia Lee,Software,CloudDash,start-up,11,4428.53,0.17,40432.48,Pending,DIRECT
+ORD-10216,07-06-2022,south,Aisha Patel,Consulting,Audit Package,,20,83.5,0.14,,WON,Direct
+ORD-10049,2023-01-08,south,Liam Brooks,Services,Migration,Startup,49,4404.22,0.1,194226.1,LOST,Online
+ORD-10707,2023-10-10,EAST,Aisha Patel,Services,Onboarding,,5,4589.13,0.07,21339.45,Pending,Online
+ORD-10556,29/07/2024,Central,James Carter,Consulting,Strategy Session,startup,24,3152.71,0.25,56748.78,,DIRECT
+ORD-10877,28/07/2023,East,Nina Torres,Software,DataVault,start-up,31,4893.49,,110739.68,lost,Referral
+ORD-10756,03-04-2024,North,Liam Brooks,Hardware,NAS Drive,,42,3138.35,0.02,,lost,referral
+ORD-10596,2022-12-12,East,Aisha Patel,Services,Migration,enterprise,28,3639.74,0.1,91721.45,Lost,Direct
+ORD-10144,2022-04-28,central,Liam Brooks,Services,Support Plan,Enterprise,39,3406.54,0.15,112926.8,WON,direct
+ORD-10712,16/07/2022,,Aisha Patel,Subscriptions,Pro Plan,startup,28,4405.69,,96220.27,pending,referral
+ORD-10860,26/12/2024,South,Liam Brooks,Software,DataVault,enterprise,24,64.19,0.35,1001.36,Lost,direct
+ORD-10769,2023-01-24,North,Ethan Ross,Services,Migration,startup,48,1897.07,0.17,75579.27,Pending,partner
+ORD-10333,"January 03, 2024",Central,Derek Stone,Software,AutoSync,ENTERPRISE,26,2031.24,0.16,44362.28,won,Referral
+ORD-10112,15-12-2024,North,Aisha Patel,Consulting,Strategy Session,SMB,14,3848.38,0.27,39330.44,lost,Online
+ORD-10425,"January 31, 2024",North,Nina Torres,Software,CRM Pro,smb,5,2738.8,0.06,12872.36,Pending,partner
+ORD-10538,"October 17, 2022",central,James Carter,Consulting,Strategy Session,ENTERPRISE,12,3181.67,0.32,25962.43,Won,referral
+ORD-10818,"September 13, 2022",North,,Hardware,ServerX,,48,1758.05,0.35,54851.16,PENDING,Online
+ORD-10497,19/12/2023,East,Derek Stone,Hardware,Switch Pro,SMB,5,1591.32,0.31,5490.05,WON,Partner
+ORD-10338,09-05-2023,south,James Carter,Subscriptions,Enterprise Plan,startup,16,440.21,0.16,5916.42,Pending,DIRECT
+ORD-10576,"September 14, 2023",west,Nina Torres,Software,CRM Pro,Enterprise,500,4576.33,0.15,159485.1,Pending,Online
+ORD-10920,2023-06-16,,James Carter,Services,Training,Startup,25,1386.06,0.06,32572.41,In Progress,online
+ORD-10754,2023-01-29,South,Sophia Lee,Hardware,NAS Drive,Enterprise,33,583.03,0.11,17123.59,Pending,Referral
+ORD-10581,05-10-2022,NORTH,James Carter,Services,Migration,Startup,19,1493.74,0.22,22137.23,Won,online
+ORD-10351,05/04/2023,EAST,Aisha Patel,Subscriptions,Enterprise Plan,Enterprise,25,2112.0,0.28,38016.0,Pending,DIRECT
+ORD-10660,21/04/2023,South,Mia Fernandez,Services,Migration,ENTERPRISE,47,3571.36,0.34,110783.59,lost,Partner
+ORD-10666,01/11/2024,south,Zoe Nguyen,Subscriptions,Enterprise Plan,enterprise,42,1850.5,0.29,55181.91,WON,Online
+ORD-10390,"December 07, 2023",NORTH,Sophia Lee,Hardware,NAS Drive,enterprise,33,2032.78,0.12,59031.93,Lost,Online
+ORD-10850,25/01/2022,north,Liam Brooks,Consulting,Strategy Session,Enterprise,9,1279.3,0.03,11168.29,Won,Online
+ORD-10605,02/10/2023,north,Sophia Lee,Services,Training,ENTERPRISE,35,1664.28,0.16,48929.83,Won,Referral
+ORD-10322,19/03/2022,South,Nina Torres,Software,DataVault,Enterprise,41,3681.34,0.08,138860.14,Won,Online
+ORD-10501,11-01-2023,East,Zoe Nguyen,Consulting,Strategy Session,start-up,23,2419.33,0.3,38951.21,won,Partner
+ORD-10418,27-09-2023,West,Ethan Ross,Hardware,Edge Router,smb,27,1336.04,0.11,32105.04,LOST,Partner
+ORD-10837,2022-06-28,NORTH,Mia Fernandez,Software,DataVault,SMB,7,420.65,0.19,2385.09,pending,Direct
+ORD-10183,2022-08-18,west,Ethan Ross,Hardware,NAS Drive,ENTERPRISE,34,2237.11,0.24,57806.92,,Online
+ORD-10367,08/23/2022,central,Mia Fernandez,Software,CRM Pro,smb,17,536.1,0.25,6835.28,won,Direct
+ORD-10372,2024-11-04,,Mia Fernandez,Consulting,Strategy Session,smb,35,2386.91,0.27,60985.55,PENDING,Referral
+ORD-10342,05-01-2022,East,Derek Stone,Subscriptions,Enterprise Plan,enterprise,11,2487.49,0.29,9999999.0,Won,Online
+ORD-10306,07/02/2022,West,Aisha Patel,Consulting,Roadmap Workshop,Startup,33,3967.88,0.02,,Won,Direct
+ORD-10217,18-02-2024,West,Nina Torres,Consulting,Audit Package,Startup,45,1044.21,0.11,41820.61,In Progress,Direct
+ORD-10940,05/12/2023,north,Liam Brooks,Consulting,Audit Package,enterprise,32,4639.8,0.05,141049.92,,Online
+ORD-10037,04-04-2024,west,Marcus Webb,Hardware,Edge Router,ENTERPRISE,37,1539.7,0.19,46144.81,In Progress,
+ORD-10313,"August 10, 2022",north,Nina Torres,Services,Training,smb,42,3569.91,0.31,103455.99,lost,online
+ORD-10570,05-11-2024,central,Derek Stone,Consulting,Roadmap Workshop,ENTERPRISE,47,4539.06,0.15,181335.45,In Progress,Referral
+ORD-10188,2023-04-02,North,Derek Stone,Consulting,Roadmap Workshop,startup,16,2330.1,0.05,35417.52,Lost,referral
+ORD-10461,23-10-2024,North,Derek Stone,Consulting,Roadmap Workshop,smb,10,1741.84,0.14,14979.82,Lost,Online
+ORD-10036,08-02-2023,EAST,Sophia Lee,Services,Training,enterprise,33,1580.96,0.14,44867.64,lost,Referral
+ORD-10680,2024-12-19,South,Zoe Nguyen,Consulting,Roadmap Workshop,ENTERPRISE,24,4612.4,0.04,106269.7,PENDING,Partner
+ORD-10927,16-07-2024,south,Sophia Lee,Subscriptions,Pro Plan,startup,10,2014.79,,17125.72,Lost,DIRECT
+ORD-10853,2023-08-31,west,Liam Brooks,Hardware,NAS Drive,Enterprise,28,1957.65,0.12,48236.5,Lost,Direct
+ORD-10614,"April 29, 2023",South,Sophia Lee,Hardware,ServerX,SMB,30,2452.64,0.35,47826.48,lost,online
+ORD-10547,2024-07-17,north,James Carter,Subscriptions,Basic Plan,,33,624.52,0.31,14220.32,pending,Online
+ORD-10233,21/12/2022,NORTH,Zoe Nguyen,Services,Support Plan,Startup,40,315.38,0.13,10975.22,pending,online
+ORD-10502,02-08-2023,Central,Mia Fernandez,Hardware,ServerX,startup,21,2802.94,,57684.51,won,partner
+ORD-10438,"March 04, 2023",north,Zoe Nguyen,Software,CloudDash,Startup,40,1365.79,0.01,54085.28,Won,referral
+ORD-10566,06/17/2023,West,Nina Torres,Services,Support Plan,Startup,30,4783.26,0.22,111928.28,lost,partner
+ORD-10804,2023-06-10,north,Sophia Lee,Subscriptions,Pro Plan,ENTERPRISE,43,50.42,0.11,1929.57,Pending,partner
+ORD-10065,28-05-2024,Central,Mia Fernandez,Software,DataVault,SMB,43,451.88,0.08,17876.37,lost,Online
+ORD-10527,21/03/2023,central,Sophia Lee,Software,DataVault,startup,12,4485.21,,40905.12,In Progress,online
+ORD-10163,09/01/2022,north,Liam Brooks,Services,Training,ENTERPRISE,39,2570.16,0.18,82193.72,Lost,Partner
+ORD-10263,02/09/2022,central,James Carter,Hardware,ServerX,startup,30,4336.86,0.27,94977.23,,
+ORD-10847,03/20/2024,West,Aisha Patel,Consulting,Strategy Session,start-up,32,948.49,,28530.58,won,Partner
+ORD-10399,16-04-2023,EAST,Nina Torres,Subscriptions,Enterprise Plan,smb,19,510.4,0.24,7370.18,Lost,online
+ORD-10235,19/06/2022,North,Aisha Patel,Services,Training,SMB,19,882.63,0.16,,PENDING,referral
+ORD-10175,03/07/2022,South,Ethan Ross,Software,CloudDash,ENTERPRISE,26,3950.41,0.07,95520.91,Won,Referral
+ORD-10228,"February 09, 2023",Central,Liam Brooks,Consulting,Roadmap Workshop,SMB,18,3774.01,0.28,48911.17,Lost,partner
+ORD-10555,"January 26, 2022",South,Marcus Webb,Services,Support Plan,enterprise,31,3361.73,0.06,97960.81,Won,direct
+ORD-10071,"November 28, 2024",south,Marcus Webb,Subscriptions,Enterprise Plan,start-up,31,1772.41,0.12,48351.34,won,Direct
+ORD-10125,19/09/2022,north,Liam Brooks,Subscriptions,Basic Plan,Startup,12,4758.29,0.12,50247.54,lost,online
+ORD-10089,05/29/2023,central,Sophia Lee,Software,CloudDash,Enterprise,24,3675.18,0.03,85558.19,In Progress,referral
+ORD-10117,22/08/2022,west,Aisha Patel,Services,Support Plan,SMB,10,1317.04,0.06,12380.18,won,DIRECT
+ORD-10321,"November 21, 2022",north,Marcus Webb,Subscriptions,Enterprise Plan,startup,28,4828.37,0.13,117619.09,Pending,Partner
+ORD-10619,16-04-2024,Central,James Carter,Consulting,Roadmap Workshop,enterprise,35,2147.72,0.24,57129.35,LOST,DIRECT
+ORD-10952,10/07/2022,central,Marcus Webb,Services,Training,Enterprise,40,3454.48,0.04,132652.03,pending,Partner
+ORD-10536,"May 04, 2023",EAST,Sophia Lee,Subscriptions,Pro Plan,start-up,3,1729.46,0.12,4565.77,Won,DIRECT
+ORD-10061,2023-08-03,South,Derek Stone,Hardware,NAS Drive,smb,46,2693.97,0.1,111530.36,Won,referral
+ORD-10700,2024-06-30,East,Liam Brooks,Subscriptions,Pro Plan,ENTERPRISE,8,2340.33,,12544.17,Won,referral
+ORD-10186,2022-05-04,West,James Carter,Services,Support Plan,ENTERPRISE,24,4964.64,0.13,103661.68,Pending,Direct
+ORD-10869,2022-08-02,East,Mia Fernandez,Services,Support Plan,smb,35,577.0,,18781.35,WON,referral
+ORD-10401,"January 25, 2023",South,Aisha Patel,Hardware,NAS Drive,SMB,16,4189.86,0.12,58993.23,Lost,Direct
+ORD-10232,"November 12, 2024",EAST,Mia Fernandez,Hardware,Edge Router,startup,32,3195.73,0.24,77720.15,WON,Online
+ORD-10649,2024-11-17,west,Liam Brooks,Consulting,Audit Package,smb,17,2948.56,0.27,36591.63,LOST,partner
+ORD-10072,08/03/2022,East,Liam Brooks,Consulting,Roadmap Workshop,startup,3,2301.39,0.11,6144.71,PENDING,Partner
+ORD-10924,03-08-2022,South,Mia Fernandez,Subscriptions,Pro Plan,start-up,33,573.02,0.05,17964.18,WON,direct
+ORD-10270,08/05/2022,West,Zoe Nguyen,Services,Onboarding,,29,1576.12,0.09,41593.81,Lost,direct
+ORD-10111,"June 24, 2024",south,Aisha Patel,Subscriptions,Pro Plan,startup,19,3407.18,0.21,51141.77,won,online
+ORD-10745,12-12-2023,EAST,Mia Fernandez,Hardware,NAS Drive,ENTERPRISE,47,2188.78,0.13,89499.21,In Progress,partner
+ORD-10914,03/06/2022,central,,Consulting,Audit Package,SMB,4,4023.49,0.17,13357.99,Lost,
+ORD-10476,11/29/2022,NORTH,James Carter,Consulting,Audit Package,start-up,41,944.45,0.31,26718.49,lost,referral
+ORD-10226,2023-10-16,south,James Carter,Software,AutoSync,enterprise,48,1257.37,0.06,56732.53,WON,Direct
+ORD-10329,23/06/2023,South,Nina Torres,Consulting,Strategy Session,Enterprise,32,4556.27,0.24,110808.49,PENDING,online
+ORD-10549,"May 01, 2023",South,Liam Brooks,Hardware,Edge Router,start-up,28,767.46,0.32,14612.44,Won,Referral
+ORD-10699,"December 22, 2022",west,Zoe Nguyen,Consulting,Roadmap Workshop,enterprise,2,4468.23,0.29,6344.89,PENDING,Online
+ORD-10195,2022-03-22,South,Mia Fernandez,Subscriptions,Pro Plan,SMB,20,4787.25,0.01,94787.55,LOST,Online
+ORD-10336,2022-04-05,south,Nina Torres,Software,AutoSync,,43,3646.93,0.17,130158.93,Pending,Online
+ORD-10768,"September 19, 2023",,Liam Brooks,Subscriptions,Basic Plan,Startup,46,2372.83,,103692.67,WON,Online
+ORD-10763,21/02/2024,East,Marcus Webb,Consulting,Strategy Session,start-up,13,307.93,0.35,2602.01,won,DIRECT
+ORD-10028,25/06/2023,West,Derek Stone,Software,CloudDash,,1,1701.1,0.05,1616.04,Won,Partner
+ORD-10583,16/07/2022,Central,Nina Torres,Hardware,NAS Drive,smb,50,2450.25,0.12,107811.0,LOST,referral
+ORD-10453,07/12/2023,central,James Carter,Services,Training,start-up,10,2230.29,0.32,15165.97,In Progress,Online
+ORD-10480,08/03/2022,Central,,Services,Onboarding,enterprise,12,848.61,0.1,9164.99,Pending,partner
+ORD-10137,04-02-2024,North,Nina Torres,Software,DataVault,enterprise,48,3795.56,0.05,173077.54,,referral
+ORD-10542,03/25/2022,north,Mia Fernandez,Consulting,Strategy Session,start-up,9999,85.76,0.32,58.32,won,Referral
+ORD-10747,"March 21, 2023",EAST,Ethan Ross,Software,CRM Pro,enterprise,50,3908.58,0.14,168068.94,PENDING,Referral
+ORD-10463,"November 06, 2023",west,Marcus Webb,Hardware,NAS Drive,,20,3458.23,0.31,47723.57,WON,Partner
+ORD-10393,27-11-2024,South,James Carter,Subscriptions,Enterprise Plan,ENTERPRISE,24,1234.32,0.0,29623.68,,direct
+ORD-10382,09/13/2024,South,Liam Brooks,Subscriptions,Enterprise Plan,ENTERPRISE,43,2578.48,0.06,104222.16,In Progress,Online
+ORD-10372,2024-11-04,,Mia Fernandez,Consulting,Strategy Session,smb,35,2386.91,0.27,60985.55,PENDING,Referral
+ORD-10641,2023-11-05,south,Sophia Lee,Consulting,Roadmap Workshop,,10,192.93,0.16,1620.61,LOST,online
+ORD-10656,"September 20, 2024",North,Zoe Nguyen,Subscriptions,Basic Plan,smb,26,302.06,0.0,7853.56,In Progress,Online
+ORD-10918,"April 07, 2022",south,Zoe Nguyen,Consulting,Audit Package,enterprise,15,286.78,0.0,4301.7,Won,Online
+ORD-10635,2022-09-28,,Ethan Ross,Consulting,Audit Package,enterprise,3,4893.66,0.17,,LOST,Partner
+ORD-10507,01/01/2022,central,Marcus Webb,Consulting,Audit Package,start-up,14,3423.51,,,Lost,Referral
+ORD-10328,"October 08, 2022",north,Ethan Ross,Subscriptions,Pro Plan,enterprise,32,1033.3,0.07,30751.01,won,online
+ORD-10012,2024-12-22,Central,Nina Torres,Consulting,Strategy Session,Startup,16,336.73,0.31,3717.5,lost,Online
+ORD-10687,12/04/2024,West,Ethan Ross,Software,DataVault,Enterprise,14,1264.17,0.25,13273.78,lost,direct
+ORD-10908,03/30/2024,south,Marcus Webb,Hardware,Switch Pro,startup,-5,3976.11,0.21,119362.82,won,Online
+ORD-10206,2022-12-17,West,Liam Brooks,Services,Onboarding,Enterprise,14,4511.3,0.24,48000.23,Lost,Direct
+ORD-10103,2024-05-31,north,Ethan Ross,Hardware,Edge Router,SMB,22,4145.73,0.14,78437.21,Pending,Online
+ORD-10468,2024-04-16,south,Liam Brooks,Hardware,NAS Drive,SMB,12,4639.16,0.34,36742.15,won,online
+ORD-10309,"December 30, 2022",Central,Ethan Ross,Services,Support Plan,smb,19,185.88,0.02,3461.09,won,Direct
+ORD-10500,2024-08-17,West,Derek Stone,Consulting,Strategy Session,SMB,40,1327.36,0.13,46192.13,WON,Online
+ORD-10222,2022-06-24,South,Nina Torres,Hardware,ServerX,startup,28,574.43,0.03,15601.52,LOST,Online
+ORD-10153,09/15/2023,NORTH,Nina Torres,Hardware,Switch Pro,enterprise,13,3193.53,0.19,33627.87,lost,referral
+ORD-10180,11/09/2023,Central,James Carter,Services,Training,SMB,43,635.21,0.11,24309.49,Won,Direct
+ORD-10934,20/01/2022,East,Zoe Nguyen,Subscriptions,Pro Plan,,8,273.62,0.01,2167.07,pending,online
+ORD-10182,"February 05, 2024",west,Zoe Nguyen,Subscriptions,Basic Plan,enterprise,29,2664.46,0.13,67224.33,PENDING,direct
+ORD-10875,2024-06-01,central,Liam Brooks,Hardware,ServerX,ENTERPRISE,41,4972.3,0.03,197748.37,In Progress,Referral
+ORD-10331,27-07-2022,central,Aisha Patel,Consulting,Audit Package,start-up,7,4075.23,0.31,19683.36,Won,DIRECT
+ORD-10469,30-09-2024,West,Aisha Patel,Consulting,Strategy Session,startup,26,3076.95,0.26,59200.52,LOST,Online
+ORD-10141,"March 30, 2024",EAST,Nina Torres,Hardware,Edge Router,Startup,18,4015.68,0.25,54211.68,PENDING,partner
+ORD-10653,23-09-2024,Central,Mia Fernandez,Services,Migration,smb,9,718.81,0.07,6016.44,won,Referral
+ORD-10770,"May 26, 2022",North,Sophia Lee,Consulting,Strategy Session,startup,50,4569.78,0.25,171366.75,lost,DIRECT
+ORD-10562,"June 14, 2022",NORTH,Derek Stone,Software,DataVault,smb,45,782.37,0.05,33446.32,won,online
+ORD-10794,2023-04-06,NORTH,Zoe Nguyen,Consulting,Roadmap Workshop,ENTERPRISE,36,1991.81,0.15,60949.39,Won,online
+ORD-10702,03/29/2023,West,Nina Torres,Software,CloudDash,SMB,13,4922.1,,49910.09,,referral
+ORD-10316,01-09-2024,west,Derek Stone,Hardware,NAS Drive,smb,31,683.32,0.09,19276.46,won,partner
+ORD-10415,24/03/2024,north,Sophia Lee,Services,Support Plan,enterprise,20,1185.31,,17542.59,Pending,Partner
+ORD-10210,23-03-2024,North,Derek Stone,Consulting,Strategy Session,Startup,25,2187.65,0.24,41565.35,PENDING,online
+ORD-10519,2023-06-11,north,Mia Fernandez,Hardware,NAS Drive,start-up,12,1343.2,0.25,12088.8,LOST,partner
+ORD-10142,"June 11, 2022",Central,Marcus Webb,Subscriptions,Pro Plan,enterprise,21,3321.55,0.11,62079.77,won,Referral
+ORD-10002,01/14/2022,EAST,Nina Torres,Services,Support Plan,Startup,6,1930.64,0.13,10077.94,won,DIRECT
+ORD-10362,25/05/2022,South,Derek Stone,Consulting,Audit Package,startup,21,133.61,0.24,2132.42,Pending,referral
+ORD-10004,11/01/2024,South,Sophia Lee,Software,AutoSync,enterprise,7,1931.62,0.16,11357.93,,Partner
+ORD-10044,11-07-2023,East,Ethan Ross,Software,DataVault,SMB,45,806.39,0.07,33747.42,Pending,Partner
+ORD-10944,15-06-2022,South,,Consulting,Strategy Session,startup,26,4836.19,0.03,121968.71,Pending,partner
+ORD-10281,26/03/2023,EAST,Nina Torres,Hardware,NAS Drive,Startup,38,189.62,0.25,5404.17,LOST,Direct
+ORD-10675,2022-04-08,West,Derek Stone,Subscriptions,Pro Plan,Startup,48,4945.55,0.2,189909.12,Lost,Online
+ORD-10202,"November 01, 2024",East,James Carter,Subscriptions,Enterprise Plan,start-up,1,2684.45,0.14,2308.63,Won,partner
+ORD-10302,2024-05-09,EAST,Marcus Webb,Hardware,ServerX,enterprise,50,549.9,0.1,24745.5,In Progress,Referral
+ORD-10726,16/09/2022,Central,Zoe Nguyen,Hardware,ServerX,start-up,5,878.8,,3778.84,In Progress,Online
+ORD-10365,08/28/2023,south,Nina Torres,Software,CRM Pro,Enterprise,37,3003.44,0.19,90013.1,Won,Direct
+ORD-10358,2023-05-15,central,Nina Torres,Consulting,Audit Package,smb,47,1450.0,0.32,46342.0,PENDING,partner
+ORD-10822,2024-11-21,West,Mia Fernandez,Consulting,Audit Package,Enterprise,30,1676.33,0.12,44255.11,In Progress,
+ORD-10516,02/10/2023,North,Nina Torres,Subscriptions,Pro Plan,start-up,31,2891.13,0.12,78870.03,PENDING,
+ORD-10371,26/12/2022,north,Derek Stone,Hardware,NAS Drive,smb,47,423.23,,19692.89,won,
+ORD-10593,10-01-2024,west,James Carter,Software,CloudDash,enterprise,19,2311.88,0.26,32505.03,Pending,DIRECT
+ORD-10585,2022-09-26,West,Nina Torres,Services,Training,ENTERPRISE,39,2639.45,0.34,67939.44,pending,partner
+ORD-10378,14/01/2022,NORTH,Zoe Nguyen,Hardware,ServerX,smb,10,975.18,0.13,8484.07,Lost,Online
+ORD-10231,02/09/2023,Central,Sophia Lee,Hardware,ServerX,SMB,8,956.07,0.24,9999999.0,lost,DIRECT
+ORD-10237,"March 24, 2023",north,Aisha Patel,Services,Migration,smb,6,2223.4,0.35,8671.26,LOST,Partner
+ORD-10937,2024-09-18,south,Ethan Ross,Software,CloudDash,SMB,23,2514.27,0.09,52623.67,WON,Direct
+ORD-10171,15-07-2023,north,Mia Fernandez,Subscriptions,Pro Plan,Startup,19,258.23,0.33,3287.27,WON,referral
+ORD-10273,2024-08-04,NORTH,Sophia Lee,Software,DataVault,ENTERPRISE,26,1892.59,0.22,38381.73,Lost,Online
+ORD-10677,30-01-2023,West,Sophia Lee,Hardware,Edge Router,startup,6,357.86,0.31,1481.54,won,DIRECT
+ORD-10551,03-05-2022,NORTH,Sophia Lee,Consulting,Audit Package,ENTERPRISE,15,4437.72,0.21,52586.98,LOST,partner
+ORD-10912,01-02-2024,NORTH,Nina Torres,Software,AutoSync,Enterprise,14,2353.61,0.28,23724.39,LOST,Online
+ORD-10194,06/07/2023,East,Sophia Lee,Consulting,Strategy Session,SMB,18,1916.98,,27259.46,Won,Referral
+ORD-10714,01/02/2023,NORTH,Ethan Ross,Services,Migration,start-up,29,970.32,0.05,26732.32,In Progress,online
+ORD-10102,15-06-2022,Central,Marcus Webb,Software,AutoSync,Startup,39,2676.26,0.16,87674.28,Pending,Partner
+ORD-10767,"November 16, 2022",North,,Consulting,Audit Package,ENTERPRISE,47,919.71,0.13,37606.94,PENDING,Direct
+ORD-10791,17-05-2024,East,Marcus Webb,Subscriptions,Basic Plan,startup,35,4269.19,0.11,132985.27,,direct
+ORD-10209,10/06/2022,East,James Carter,Software,DataVault,enterprise,39,3856.58,0.33,100772.44,LOST,Partner
+ORD-10925,"January 15, 2024",West,,Subscriptions,Pro Plan,,18,2144.32,0.24,29334.3,won,Direct
+ORD-10664,28-11-2023,North,Ethan Ross,Services,Onboarding,Enterprise,30,4815.1,0.26,106895.22,pending,DIRECT
+ORD-10162,15/04/2022,west,Aisha Patel,Services,Training,enterprise,33,2279.25,0.19,60924.35,,
+ORD-10897,28/11/2024,East,Nina Torres,Hardware,Edge Router,SMB,26,1003.67,0.23,20093.47,PENDING,online
+ORD-10491,24-09-2023,North,Derek Stone,Consulting,Audit Package,SMB,29,4155.81,0.11,107261.46,LOST,partner
+ORD-10946,"October 05, 2022",west,Aisha Patel,Services,Onboarding,smb,41,2332.71,0.06,89902.64,In Progress,partner
+ORD-10567,26/11/2022,south,Marcus Webb,Hardware,NAS Drive,ENTERPRISE,8,253.7,0.11,1806.34,Lost,referral
+ORD-10087,"February 12, 2023",West,Sophia Lee,Hardware,Switch Pro,smb,2,4890.83,0.23,7531.88,lost,direct
+ORD-10789,06/13/2024,South,Derek Stone,Software,CRM Pro,enterprise,22,3715.88,0.33,54772.07,won,Online
+ORD-10721,"August 19, 2023",South,Mia Fernandez,Services,Onboarding,SMB,19,912.03,0.31,11956.71,Lost,
+ORD-10190,04/10/2022,North,Liam Brooks,Consulting,Roadmap Workshop,SMB,9,2544.28,0.1,20608.67,Won,Referral
+ORD-10178,22-11-2023,Central,Aisha Patel,Hardware,Edge Router,startup,21,479.35,0.23,7751.09,PENDING,direct
+ORD-10392,"March 19, 2022",EAST,Mia Fernandez,Subscriptions,Enterprise Plan,Enterprise,41,2497.12,0.0,102381.92,WON,Direct
+ORD-10419,01/01/2022,NORTH,Nina Torres,Services,Onboarding,start-up,20,95.21,0.15,1618.57,pending,Online
+ORD-10568,"September 17, 2022",south,,Hardware,ServerX,Startup,10,1895.93,0.19,15357.03,LOST,Referral
+ORD-10905,2022-03-06,East,Nina Torres,Consulting,Strategy Session,smb,13,3050.25,0.19,32119.13,won,Partner
+ORD-10689,17-12-2024,EAST,Derek Stone,Software,CRM Pro,ENTERPRISE,10,954.21,0.27,6965.73,lost,Direct
+ORD-10511,"January 08, 2024",NORTH,Derek Stone,Hardware,ServerX,enterprise,10,3620.63,0.17,30051.23,,Online
+ORD-10608,2024-10-14,west,Aisha Patel,Services,Onboarding,smb,26,4032.78,0.22,81784.78,In Progress,Online
+ORD-10439,25-05-2022,north,Aisha Patel,Subscriptions,Basic Plan,SMB,25,987.83,,20250.52,PENDING,DIRECT
+ORD-10471,04/03/2024,central,James Carter,Hardware,Edge Router,startup,50,4146.72,0.16,174162.24,lost,Online
+ORD-10398,"July 28, 2024",Central,James Carter,Consulting,Audit Package,enterprise,41,3953.85,0.08,149139.22,Pending,referral
+ORD-10785,01/12/2024,west,James Carter,Hardware,ServerX,smb,-5,881.86,0.16,22222.87,PENDING,referral
+ORD-10692,"October 30, 2024",north,Derek Stone,Software,CloudDash,startup,31,193.09,0.22,4668.92,won,Online
+ORD-10882,"August 10, 2022",EAST,Aisha Patel,Consulting,Strategy Session,Startup,39,2457.16,0.25,71871.93,LOST,DIRECT
+ORD-10730,12/22/2023,,James Carter,Consulting,Audit Package,start-up,28,2074.32,0.28,41818.29,pending,DIRECT
+ORD-10043,"August 30, 2024",south,Aisha Patel,Services,Migration,SMB,29,433.54,0.1,11315.39,lost,Direct
+ORD-10261,08/25/2022,west,James Carter,Software,DataVault,Enterprise,24,0.0,0.05,44363.1,pending,referral
+ORD-10856,05/20/2024,central,Derek Stone,Subscriptions,Pro Plan,enterprise,32,3325.57,0.33,71300.22,lost,Online
+ORD-10429,"September 03, 2022",South,James Carter,Software,DataVault,Startup,16,830.61,0.03,12891.07,won,
+ORD-10228,"February 09, 2023",Central,Liam Brooks,Consulting,Roadmap Workshop,SMB,18,3774.01,0.28,48911.17,Lost,partner
+ORD-10005,01/18/2024,East,Nina Torres,Hardware,Switch Pro,,41,897.14,,27219.23,In Progress,referral
+ORD-10946,"October 05, 2022",west,Aisha Patel,Services,Onboarding,smb,41,2332.71,0.06,89902.64,In Progress,partner
+ORD-10802,"January 14, 2023",North,Liam Brooks,Subscriptions,Basic Plan,enterprise,43,4493.13,0.06,181612.31,Lost,Partner
+ORD-10318,2024-08-07,West,James Carter,Subscriptions,Pro Plan,SMB,8,4344.11,0.13,30235.01,PENDING,Referral
+ORD-10863,"February 23, 2022",East,James Carter,Software,CloudDash,ENTERPRISE,10,1857.96,0.03,18022.21,Won,partner
+ORD-10312,11/09/2023,Central,Liam Brooks,Subscriptions,Basic Plan,Startup,42,2989.17,0.1,112990.63,PENDING,DIRECT
+ORD-10075,05/06/2023,south,Ethan Ross,Software,CRM Pro,SMB,30,4737.95,0.23,109446.65,won,Online
+ORD-10173,05/06/2023,,Ethan Ross,Hardware,NAS Drive,Enterprise,27,1684.95,0.17,37759.73,,direct
+ORD-10824,"November 11, 2022",north,Zoe Nguyen,Software,AutoSync,SMB,26,1902.83,0.13,43042.01,pending,direct
+ORD-10051,03/05/2022,South,James Carter,Subscriptions,Basic Plan,ENTERPRISE,43,616.23,0.33,17753.59,pending,Partner
+ORD-10887,"November 26, 2022",East,Mia Fernandez,Consulting,Roadmap Workshop,,47,3356.41,0.22,123045.99,won,direct
+ORD-10902,2022-10-22,central,Mia Fernandez,Software,CloudDash,enterprise,10,1448.19,0.31,9992.51,won,partner
+ORD-10220,"May 22, 2022",central,Zoe Nguyen,Hardware,Switch Pro,SMB,43,813.01,0.15,29715.52,lost,Partner
+ORD-10508,"September 16, 2023",East,Sophia Lee,Subscriptions,Enterprise Plan,startup,19,358.93,0.32,4637.38,WON,direct
+ORD-10572,09-07-2022,North,Mia Fernandez,Hardware,NAS Drive,smb,2,463.77,0.3,649.28,Lost,referral
+ORD-10387,04/08/2023,west,Liam Brooks,Services,Onboarding,Enterprise,34,633.25,0.0,,In Progress,Online
+ORD-10093,03/11/2023,South,,Consulting,Roadmap Workshop,startup,9,274.47,0.01,2445.53,won,online
+ORD-10148,2023-02-14,NORTH,Sophia Lee,Consulting,Roadmap Workshop,start-up,44,4839.43,0.35,138407.7,,direct
+ORD-10482,13-05-2022,West,Marcus Webb,Software,AutoSync,startup,14,3494.36,0.21,38647.62,PENDING,direct
+ORD-10835,24-08-2024,Central,Sophia Lee,Consulting,Audit Package,start-up,22,1556.57,0.03,33217.2,,DIRECT
+ORD-10249,2022-07-29,East,Nina Torres,Services,Migration,ENTERPRISE,5,2676.02,,,WON,DIRECT
+ORD-10340,2022-01-01,Central,Mia Fernandez,Services,Support Plan,start-up,24,4135.29,0.29,70465.34,LOST,Partner
+ORD-10616,"March 28, 2022",North,James Carter,Software,AutoSync,enterprise,24,3374.78,0.31,55886.36,,partner
+ORD-10200,"June 12, 2023",central,Zoe Nguyen,Consulting,Roadmap Workshop,Startup,9,3615.55,,27008.16,WON,online
+ORD-10091,28-08-2023,,Zoe Nguyen,Software,DataVault,startup,24,497.0,0.14,10258.08,PENDING,partner
+ORD-10540,"February 20, 2023",East,Liam Brooks,Services,Support Plan,Startup,49,275.65,0.06,12696.44,Lost,Online
+ORD-10442,23-12-2023,west,Nina Torres,Services,Migration,Startup,16,2837.57,0.07,42223.04,In Progress,Online
+ORD-10922,"September 05, 2024",south,Nina Torres,Consulting,Strategy Session,smb,46,459.83,0.2,16921.74,lost,Online
+ORD-10280,03/01/2024,South,Marcus Webb,Software,DataVault,smb,48,326.75,,10194.6,PENDING,referral
+ORD-10410,08/01/2024,west,Derek Stone,Services,Migration,enterprise,44,4817.43,0.07,197129.24,LOST,Direct
+ORD-10611,2023-01-05,central,Ethan Ross,Hardware,Edge Router,SMB,18,4688.96,0.19,68365.04,,Referral
+ORD-10602,2024-09-25,Central,Zoe Nguyen,Subscriptions,Pro Plan,ENTERPRISE,4,1987.35,0.17,6598.0,PENDING,Referral
+ORD-10909,12/06/2022,West,Liam Brooks,Consulting,Roadmap Workshop,smb,40,582.42,0.13,20268.22,LOST,Partner
+ORD-10335,06/16/2024,Central,,Services,Onboarding,,32,609.04,0.14,16760.78,pending,direct
+ORD-10854,08/11/2023,central,Liam Brooks,Software,DataVault,enterprise,7,4784.51,0.1,30142.41,Lost,Online
+ORD-10607,"July 20, 2022",north,Aisha Patel,Services,Training,ENTERPRISE,20,1848.5,0.15,31424.5,In Progress,Online
+ORD-10906,26/11/2024,NORTH,Aisha Patel,Services,Support Plan,Enterprise,9,1137.82,0.25,7680.28,LOST,DIRECT
+ORD-10506,11/08/2022,EAST,Nina Torres,Consulting,Strategy Session,SMB,38,4521.12,0.22,134006.0,WON,referral
+ORD-10828,"October 24, 2024",NORTH,Sophia Lee,Software,DataVault,ENTERPRISE,33,117.56,0.24,2948.4,LOST,Online
+ORD-10880,29/03/2022,central,James Carter,Hardware,ServerX,ENTERPRISE,19,1910.32,0.2,29036.86,won,Referral
+ORD-10092,26/06/2023,north,Zoe Nguyen,Services,Training,startup,7,3390.44,0.17,19698.46,LOST,partner
+ORD-10728,28-08-2024,Central,Liam Brooks,Subscriptions,Basic Plan,SMB,29,4322.68,0.14,,Lost,DIRECT
+ORD-10724,2024-06-07,north,Marcus Webb,Hardware,NAS Drive,startup,21,3017.77,0.34,41826.29,LOST,partner
+ORD-10845,"October 01, 2022",,Derek Stone,Services,Onboarding,Startup,47,4827.88,0.06,213295.74,Lost,Online
+ORD-10894,"July 24, 2022",west,Mia Fernandez,Software,CloudDash,SMB,50,2300.42,,,Lost,Partner
+ORD-10575,"June 28, 2024",West,Derek Stone,Hardware,Edge Router,startup,38,3009.78,0.05,108653.06,WON,online
+ORD-10573,28/06/2022,EAST,Aisha Patel,Consulting,Roadmap Workshop,Enterprise,26,782.33,,14238.41,LOST,Online
+ORD-10278,12/12/2024,central,Ethan Ross,Software,AutoSync,start-up,32,1752.97,0.2,44876.03,PENDING,Partner
+ORD-10279,"October 21, 2023",south,Marcus Webb,Software,DataVault,Enterprise,4,4052.84,0.17,13455.43,lost,Direct
+ORD-10337,02/28/2024,west,Mia Fernandez,Software,DataVault,start-up,11,420.58,0.17,3839.9,pending,Direct
+ORD-10227,24-11-2022,west,Liam Brooks,Consulting,Audit Package,ENTERPRISE,41,3303.67,0.14,,,partner
+ORD-10008,21/05/2023,west,Derek Stone,Subscriptions,Enterprise Plan,startup,15,4986.76,,71061.33,LOST,online
+ORD-10085,"May 09, 2023",Central,Marcus Webb,Hardware,Switch Pro,start-up,43,96.52,0.28,2988.26,lost,referral
+ORD-10734,"April 07, 2024",Central,James Carter,Consulting,Audit Package,SMB,47,3758.23,0.17,146608.55,,online
+ORD-10603,13/02/2024,central,Nina Torres,Services,Onboarding,Enterprise,3,684.58,0.13,1786.75,In Progress,DIRECT
+ORD-10717,02/05/2023,west,James Carter,Consulting,Strategy Session,SMB,5,1740.68,0.23,6701.62,Lost,Direct
+ORD-10885,2022-12-27,NORTH,Sophia Lee,Services,Onboarding,smb,27,2647.65,0.23,55044.64,pending,Online
+ORD-10096,29-04-2023,,Nina Torres,Subscriptions,Basic Plan,startup,13,4842.62,0.33,42179.22,lost,Partner
+ORD-10341,19-07-2024,west,Mia Fernandez,Subscriptions,Enterprise Plan,Startup,8,532.31,0.23,3279.03,pending,direct
+ORD-10121,01/09/2024,NORTH,James Carter,Consulting,Audit Package,enterprise,42,904.17,0.09,34557.38,PENDING,Online
+ORD-10156,17-08-2023,West,Aisha Patel,Consulting,Audit Package,enterprise,11,2226.05,0.17,20323.84,Won,online
+ORD-10737,28-12-2023,South,Liam Brooks,Consulting,Roadmap Workshop,smb,38,165.04,0.27,4578.21,LOST,referral
+ORD-10632,"January 22, 2022",NORTH,Nina Torres,Consulting,Roadmap Workshop,startup,48,3006.12,0.03,139964.95,Pending,direct
+ORD-10667,09/09/2022,West,,Software,CloudDash,Startup,33,897.75,0.09,26959.43,,DIRECT
+ORD-10470,2024-12-11,west,Sophia Lee,Consulting,Strategy Session,SMB,35,2008.28,0.26,52014.45,PENDING,Referral
+ORD-10557,2022-01-03,,Nina Torres,Subscriptions,Pro Plan,startup,45,4733.17,0.19,172524.05,lost,Partner
+ORD-10293,02/25/2023,EAST,Ethan Ross,Subscriptions,Enterprise Plan,smb,16,524.78,0.14,7220.97,lost,Direct
+ORD-10805,29-11-2024,central,Ethan Ross,Consulting,Roadmap Workshop,start-up,34,4558.38,0.35,100740.2,LOST,Online
+ORD-10793,10-09-2022,,Zoe Nguyen,Hardware,Switch Pro,,22,805.88,0.25,13297.02,,online
+ORD-10164,2022-04-03,,Nina Torres,Consulting,Strategy Session,ENTERPRISE,40,1626.72,0.14,55959.17,,Online
+ORD-10732,24/10/2024,west,Sophia Lee,Services,Onboarding,enterprise,24,239.49,,5345.42,won,referral
+ORD-10282,19/10/2022,South,Zoe Nguyen,Subscriptions,Basic Plan,start-up,6,328.03,0.21,1554.86,Won,DIRECT
+ORD-10364,27-06-2022,West,Liam Brooks,Consulting,Audit Package,ENTERPRISE,15,725.09,0.14,9353.66,PENDING,referral
+ORD-10310,03/15/2023,central,Aisha Patel,Hardware,Edge Router,Enterprise,31,4562.0,0.23,108894.94,Won,
+ORD-10510,"February 23, 2024",EAST,Liam Brooks,Subscriptions,Enterprise Plan,ENTERPRISE,9,981.72,0.13,7686.87,pending,Online
+ORD-10179,01/14/2023,West,Nina Torres,Hardware,Switch Pro,startup,29,3781.1,0.33,73466.77,Lost,Direct
+ORD-10069,12/07/2023,west,Zoe Nguyen,Consulting,Roadmap Workshop,Enterprise,48,1645.49,0.09,71875.0,Pending,Partner
+ORD-10917,"May 23, 2022",,Liam Brooks,Services,Training,Startup,6,2804.43,,14975.66,Pending,Partner
+ORD-10878,06/24/2024,north,Mia Fernandez,Consulting,Audit Package,,27,150000.0,0.32,78803.87,Pending,Partner
+ORD-10673,16/09/2022,west,Derek Stone,Hardware,Switch Pro,Startup,2,188.06,0.28,270.81,WON,partner
+ORD-10932,07/13/2022,west,Mia Fernandez,Consulting,Roadmap Workshop,SMB,21,3423.14,0.06,67572.78,WON,Direct
+ORD-10058,27/09/2024,South,Zoe Nguyen,Consulting,Strategy Session,enterprise,15,2051.79,0.09,28006.93,lost,direct
+ORD-10951,2023-11-10,north,Mia Fernandez,Subscriptions,Enterprise Plan,SMB,10,2832.14,0.34,18692.12,PENDING,Partner
+ORD-10409,"April 08, 2022",,Marcus Webb,Software,AutoSync,start-up,29,3735.74,0.09,98586.18,won,Online
+ORD-10826,2023-02-11,South,Derek Stone,Software,CloudDash,startup,3,843.55,0.07,2353.5,LOST,Direct
+ORD-10265,"May 12, 2023",East,Mia Fernandez,Consulting,Roadmap Workshop,SMB,1,4665.37,0.01,4618.72,WON,Online
+ORD-10753,02/12/2024,South,,Hardware,ServerX,Enterprise,2,4946.99,0.12,8706.7,Pending,partner
+ORD-10783,31/08/2024,EAST,Aisha Patel,Software,CRM Pro,Startup,48,1661.35,0.16,66985.63,Won,Direct
+ORD-10380,02/15/2022,North,Marcus Webb,Subscriptions,Basic Plan,Enterprise,10,326.76,0.09,2973.52,In Progress,Partner
+ORD-10604,25-02-2022,EAST,Sophia Lee,Consulting,Audit Package,startup,4,3323.14,0.09,12096.23,,partner
+ORD-10670,"December 03, 2022",North,Liam Brooks,Software,CRM Pro,smb,26,4434.63,0.25,86475.29,Pending,Partner
+ORD-10759,23/02/2024,central,Aisha Patel,Subscriptions,Basic Plan,Enterprise,49,4489.06,0.11,195767.91,In Progress,Referral
+ORD-10715,2022-04-01,NORTH,Derek Stone,Subscriptions,Enterprise Plan,Startup,38,4431.85,0.27,122939.52,lost,direct
+ORD-10147,03/03/2024,north,Derek Stone,Services,Migration,SMB,19,3485.2,0.35,43042.22,In Progress,Online
+ORD-10251,26-02-2024,EAST,Nina Torres,Hardware,Switch Pro,enterprise,36,3024.95,0.25,81673.65,Lost,
+ORD-10633,2022-05-01,East,,Consulting,Roadmap Workshop,,17,2547.48,0.13,37677.23,Won,DIRECT
+ORD-10851,20/10/2022,North,James Carter,Software,CRM Pro,SMB,31,3810.38,0.31,81504.03,WON,Referral
+ORD-10212,"November 12, 2022",,Nina Torres,Software,CRM Pro,smb,24,3818.67,0.04,87982.16,,direct
+ORD-10440,25/05/2023,central,Marcus Webb,Subscriptions,Enterprise Plan,enterprise,23,3388.74,0.25,58455.76,In Progress,online
+ORD-10861,05-02-2022,west,Zoe Nguyen,Hardware,ServerX,Startup,50,4104.1,0.1,184684.5,LOST,online
+ORD-10330,11-09-2024,South,,Software,CRM Pro,start-up,6,3908.65,0.03,22748.34,WON,Online
+ORD-10766,2024-09-12,East,Liam Brooks,Consulting,Audit Package,start-up,33,3066.5,0.15,86015.32,Pending,Referral
+ORD-10276,12/26/2023,NORTH,,Services,Support Plan,Enterprise,40,3104.04,0.23,95604.43,In Progress,referral
+ORD-10784,"September 19, 2024",Central,Sophia Lee,Services,Migration,enterprise,19,3055.51,0.25,43541.02,Pending,
+ORD-10772,02/27/2022,south,Mia Fernandez,Consulting,Audit Package,SMB,38,4761.3,0.29,128459.87,In Progress,Referral
+ORD-10654,02/02/2022,North,Aisha Patel,Consulting,Roadmap Workshop,SMB,41,4298.04,0.19,142737.91,,referral
+ORD-10679,"June 20, 2024",EAST,Marcus Webb,Hardware,NAS Drive,start-up,9,4841.76,0.18,35732.19,pending,Online
+ORD-10448,09/04/2022,central,Mia Fernandez,Software,CRM Pro,smb,3,1630.62,0.2,3913.49,PENDING,
+ORD-10525,30-11-2024,central,Marcus Webb,Services,Onboarding,Enterprise,1,2085.68,0.18,1710.26,won,Online
+ORD-10691,25-04-2024,south,Liam Brooks,Software,DataVault,SMB,38,1220.63,0.18,,In Progress,direct
+ORD-10524,13-07-2023,south,Derek Stone,Software,CloudDash,start-up,47,3375.85,0.27,115825.41,Lost,
+ORD-10303,"December 06, 2023",south,Liam Brooks,Consulting,Strategy Session,ENTERPRISE,26,762.07,0.21,15652.92,lost,Online
+ORD-10487,22-08-2022,East,Liam Brooks,Subscriptions,Basic Plan,SMB,22,4615.28,,84275.01,LOST,direct
+ORD-10723,2024-02-16,East,Aisha Patel,Services,Support Plan,Startup,43,898.23,0.18,31671.59,LOST,direct
+ORD-10815,"January 10, 2023",East,Zoe Nguyen,Subscriptions,Pro Plan,startup,46,4412.87,0.28,146154.25,PENDING,
+ORD-10019,"July 25, 2023",South,Sophia Lee,Consulting,Strategy Session,Enterprise,49,4251.04,0.06,195802.9,won,online
+ORD-10324,01/12/2024,west,Nina Torres,Consulting,Audit Package,start-up,49,982.71,,32262.37,,DIRECT
+ORD-10260,"June 07, 2022",West,Ethan Ross,Services,Migration,ENTERPRISE,11,1312.82,0.04,13863.38,LOST,online
+ORD-10801,"January 06, 2023",West,Liam Brooks,Services,Support Plan,,5,3583.15,0.3,12541.02,LOST,Referral
+ORD-10409,"April 08, 2022",,Marcus Webb,Software,AutoSync,start-up,29,3735.74,0.09,98586.18,won,Online
+ORD-10400,2023-12-02,west,Marcus Webb,Consulting,Audit Package,SMB,18,954.78,,12717.67,In Progress,partner
+ORD-10297,05/07/2023,North,Marcus Webb,Software,AutoSync,startup,15,2790.33,0.29,29717.01,In Progress,Direct
+ORD-10054,26-03-2022,west,Liam Brooks,Services,Training,Enterprise,32,572.42,0.34,12089.51,,Online
+ORD-10871,2024-09-17,North,Nina Torres,Software,CRM Pro,Startup,26,2526.07,0.11,58453.26,lost,Partner
+ORD-10150,10/12/2022,West,James Carter,Services,Training,,9,3079.14,0.03,26880.89,PENDING,partner
+ORD-10682,"August 26, 2023",North,Marcus Webb,Hardware,Edge Router,Enterprise,19,1117.13,0.29,15070.08,lost,Direct
+ORD-10703,16-08-2022,Central,Ethan Ross,Consulting,Roadmap Workshop,SMB,44,3427.8,0.2,120658.56,In Progress,DIRECT
+ORD-10947,2024-06-13,NORTH,Ethan Ross,Consulting,Roadmap Workshop,Startup,23,2166.96,0.15,,pending,referral
+ORD-10106,16-04-2022,Central,Derek Stone,Services,Support Plan,ENTERPRISE,15,4244.01,0.12,56020.93,,Partner
+ORD-10710,"July 15, 2022",Central,Sophia Lee,Software,CRM Pro,startup,45,371.89,0.04,,LOST,Referral
+ORD-10024,06/19/2023,central,Nina Torres,Hardware,Edge Router,ENTERPRISE,30,1615.08,0.26,35854.78,lost,Direct
+ORD-10898,16/04/2022,EAST,Marcus Webb,Consulting,Audit Package,Startup,11,2215.14,0.03,23635.54,PENDING,Direct
+ORD-10533,24/05/2022,South,James Carter,Consulting,Strategy Session,Startup,44,1549.0,0.02,,LOST,Online
+ORD-10800,2022-09-03,north,Sophia Lee,Consulting,Strategy Session,start-up,45,3739.53,0.28,121160.77,lost,Direct
+ORD-10082,04/11/2023,EAST,,Consulting,Roadmap Workshop,enterprise,41,3437.78,0.1,126854.08,Lost,partner
+ORD-10825,09/01/2023,south,Sophia Lee,Consulting,Strategy Session,ENTERPRISE,48,2198.1,0.13,91792.66,LOST,Direct
+ORD-10844,05/25/2023,west,Sophia Lee,Software,AutoSync,Startup,46,4425.73,0.09,185261.06,won,
+ORD-10613,"September 07, 2023",EAST,Nina Torres,Software,CloudDash,smb,42,844.89,0.24,26968.89,lost,DIRECT
+ORD-10379,08/31/2022,EAST,Nina Torres,Software,CloudDash,start-up,38,848.17,0.29,22883.63,Lost,partner
+ORD-10076,"November 12, 2022",south,Ethan Ross,Services,Migration,start-up,30,2778.76,0.13,72525.64,Lost,Direct
+ORD-10388,25-02-2023,EAST,Nina Torres,Software,CloudDash,smb,35,2146.63,0.13,65364.88,,direct
+ORD-10406,04-12-2023,NORTH,Zoe Nguyen,Consulting,Audit Package,Startup,26,1434.17,0.06,35051.11,LOST,DIRECT
+ORD-10291,11-02-2022,,Sophia Lee,Software,DataVault,startup,47,421.26,0.33,13265.48,WON,Referral
+ORD-10110,2022-06-23,NORTH,Marcus Webb,Subscriptions,Enterprise Plan,enterprise,29,3326.6,0.17,80071.26,lost,Direct
+ORD-10624,"December 22, 2023",Central,Ethan Ross,Services,Onboarding,Enterprise,41,2244.85,0.22,71790.3,WON,referral
+ORD-10777,2024-10-26,West,Mia Fernandez,Hardware,NAS Drive,Enterprise,49,999.83,0.34,32334.5,WON,DIRECT
+ORD-10757,"March 24, 2023",south,Mia Fernandez,Consulting,Roadmap Workshop,ENTERPRISE,7,3019.34,0.34,13949.35,lost,referral
+ORD-10246,2023-07-16,central,Nina Torres,Services,Training,ENTERPRISE,26,3146.74,0.25,61361.43,Won,DIRECT
+ORD-10145,2022-09-16,South,Nina Torres,Services,Onboarding,ENTERPRISE,24,1891.47,0.27,33138.55,pending,partner
+ORD-10128,"December 06, 2022",North,,Services,Support Plan,start-up,19,3774.34,0.27,52350.1,In Progress,online
+ORD-10834,"December 20, 2023",South,Nina Torres,Software,CRM Pro,Enterprise,43,3736.54,0.07,149424.23,Won,Online
+ORD-10622,08-06-2023,north,Aisha Patel,Services,Support Plan,start-up,50,3239.93,0.28,116637.48,LOST,DIRECT
+ORD-10956,10-09-2024,south,Sophia Lee,Subscriptions,Pro Plan,smb,25,3503.38,0.04,84081.12,Pending,Online
+ORD-10928,2023-11-15,West,Derek Stone,Services,Onboarding,startup,13,1505.33,0.14,16829.59,Pending,Referral
+ORD-10486,2023-03-11,central,,Services,Onboarding,smb,33,2772.47,0.27,9999999.0,lost,partner
+ORD-10891,"September 13, 2022",central,Zoe Nguyen,Consulting,Audit Package,,28,2639.69,0.27,53955.26,PENDING,Referral
+ORD-10090,28-08-2023,EAST,Marcus Webb,Hardware,Switch Pro,smb,17,4574.54,0.33,52104.01,,Online
+ORD-10205,2023-09-07,central,James Carter,Software,CloudDash,startup,31,327.77,0.0,10160.87,PENDING,Referral
+ORD-10277,"October 18, 2024",west,Zoe Nguyen,Software,AutoSync,startup,27,1037.32,0.31,19325.27,WON,referral
+ORD-10170,26/07/2023,south,Aisha Patel,Services,Support Plan,start-up,31,1776.58,0.33,36899.57,LOST,Direct
+ORD-10901,01/04/2024,South,Aisha Patel,Services,Support Plan,startup,43,306.16,0.03,12769.93,lost,referral
+ORD-10056,10/23/2023,north,Derek Stone,Consulting,Audit Package,startup,2,2496.82,0.11,4444.34,,Online
+ORD-10404,08/03/2022,East,Liam Brooks,Hardware,ServerX,start-up,45,91.67,0.24,3135.11,LOST,Direct
+ORD-10241,"March 15, 2024",NORTH,Mia Fernandez,Services,Migration,startup,5,3186.46,0.31,10993.29,pending,direct
+ORD-10599,11/01/2023,south,Mia Fernandez,Subscriptions,Basic Plan,start-up,13,1503.14,0.17,16218.88,pending,Online
+ORD-10346,04/03/2024,Central,Nina Torres,Subscriptions,Pro Plan,SMB,26,4819.79,0.34,82707.6,lost,Referral
+ORD-10097,2024-07-20,central,Aisha Patel,Subscriptions,Basic Plan,Startup,9,3945.54,0.07,33024.17,Lost,referral
+ORD-10116,11/06/2024,,Ethan Ross,Software,AutoSync,Startup,22,3906.63,0.03,83367.48,Lost,DIRECT
+ORD-10201,01/05/2022,North,Sophia Lee,Software,CloudDash,ENTERPRISE,5,3550.49,0.0,17752.45,Lost,partner
+ORD-10870,23-01-2022,South,Ethan Ross,Hardware,ServerX,SMB,6,4884.48,0.2,23445.5,lost,direct
+ORD-10479,24/07/2023,central,Ethan Ross,Hardware,NAS Drive,ENTERPRISE,42,1777.65,0.05,70928.24,Won,referral
+ORD-10323,07-12-2023,NORTH,Sophia Lee,Consulting,Strategy Session,enterprise,20,4744.89,0.16,79714.15,Won,Referral
+ORD-10193,08/27/2024,South,Derek Stone,Hardware,ServerX,startup,36,2673.46,,82770.32,Pending,Referral
+ORD-10443,05-06-2023,West,Zoe Nguyen,Consulting,Roadmap Workshop,Enterprise,39,130.7,0.05,4842.43,lost,partner
+ORD-10798,2023-01-03,north,Ethan Ross,Services,Migration,ENTERPRISE,16,218.26,,3212.79,Pending,Online
+ORD-10454,04/24/2023,central,Nina Torres,Hardware,ServerX,enterprise,16,4747.26,0.32,51650.19,Won,Online
+ORD-10528,03-06-2023,West,Sophia Lee,Consulting,Audit Package,Startup,11,3914.62,0.1,38754.74,lost,referral
+ORD-10788,2024-10-04,East,Aisha Patel,Subscriptions,Enterprise Plan,Startup,46,3727.69,0.25,,Pending,online
+ORD-10550,07/20/2024,EAST,Nina Torres,Hardware,NAS Drive,Startup,13,1712.66,0.01,22041.93,lost,Referral
+ORD-10801,"January 06, 2023",West,Liam Brooks,Services,Support Plan,,5,3583.15,0.3,12541.02,LOST,Referral
+ORD-10168,"February 22, 2023",west,Mia Fernandez,Consulting,Roadmap Workshop,ENTERPRISE,14,2826.39,0.35,25720.15,PENDING,Direct
+ORD-10958,2024-06-29,East,,Consulting,Audit Package,Enterprise,23,2528.16,0.3,40703.38,,Online
+ORD-10296,03/04/2024,,Liam Brooks,Services,Migration,Enterprise,29,2352.04,0.08,62752.43,lost,referral
+ORD-10876,01/31/2022,south,Ethan Ross,Software,CRM Pro,start-up,11,4673.58,0.06,48324.82,LOST,DIRECT
+ORD-10601,"June 25, 2024",North,James Carter,Hardware,Switch Pro,ENTERPRISE,28,715.72,0.25,15030.12,pending,Online
+ORD-10906,26/11/2024,NORTH,Aisha Patel,Services,Support Plan,Enterprise,9,1137.82,0.25,7680.28,LOST,DIRECT
+ORD-10395,2022-05-21,west,Derek Stone,Subscriptions,Pro Plan,smb,39,4817.13,0.16,157809.18,Lost,Direct
+ORD-10426,"May 28, 2023",,Sophia Lee,Hardware,Edge Router,SMB,13,2331.13,0.27,22122.42,Won,Referral
+ORD-10867,08/07/2022,EAST,Marcus Webb,Hardware,ServerX,SMB,12,4121.4,0.34,32641.49,Pending,DIRECT
+ORD-10559,01/21/2024,central,Ethan Ross,Software,DataVault,Startup,35,612.11,0.17,17781.8,Lost,partner
+ORD-10525,30-11-2024,central,Marcus Webb,Services,Onboarding,Enterprise,1,2085.68,0.18,1710.26,won,Online
+ORD-10950,"November 26, 2024",North,Sophia Lee,Software,CRM Pro,Startup,7,4118.6,0.2,23064.16,In Progress,Online
+ORD-10014,05/16/2024,,Aisha Patel,Services,Training,,29,648.97,,17314.52,PENDING,Online
+ORD-10252,2023-08-07,central,Derek Stone,Hardware,NAS Drive,startup,42,320.12,0.31,9277.08,lost,DIRECT
+ORD-10238,05/01/2023,Central,Nina Torres,Subscriptions,Basic Plan,ENTERPRISE,14,4036.93,0.2,45213.62,,Partner
+ORD-10120,2023-08-11,central,Sophia Lee,Subscriptions,Pro Plan,Enterprise,37,3276.6,0.11,-1000.0,pending,Partner
+ORD-10285,26-07-2022,south,Nina Torres,Hardware,Edge Router,start-up,12,3550.56,0.2,34085.38,LOST,Referral
+ORD-10554,21/08/2024,North,Liam Brooks,Subscriptions,Pro Plan,enterprise,32,1240.53,0.2,31757.57,pending,
+ORD-10196,2023-01-25,West,Aisha Patel,Subscriptions,Pro Plan,,21,3888.79,0.13,71048.19,PENDING,Online
+ORD-10345,2024-12-22,west,Liam Brooks,Subscriptions,Enterprise Plan,ENTERPRISE,12,3665.95,0.04,42231.74,In Progress,online
+ORD-10545,29/08/2022,north,Mia Fernandez,Services,Support Plan,start-up,18,312.69,,5403.28,Lost,Partner
+ORD-10250,"December 03, 2022",East,Aisha Patel,Hardware,Edge Router,SMB,7,743.07,0.04,4993.43,won,direct
+ORD-10645,28/09/2023,NORTH,Nina Torres,Software,DataVault,start-up,25,2408.38,,,pending,direct
+ORD-10812,09/10/2022,west,Derek Stone,Subscriptions,Basic Plan,Startup,19,2780.13,0.21,41729.75,In Progress,
+ORD-10412,10/24/2022,central,Nina Torres,Consulting,Strategy Session,enterprise,22,1179.68,0.11,23098.13,WON,direct
+ORD-10485,2022-01-04,North,Zoe Nguyen,Software,CloudDash,startup,22,1780.77,0.28,28207.4,Won,direct
+ORD-10430,2023-11-25,North,Nina Torres,Hardware,ServerX,ENTERPRISE,15,1617.86,0.2,19414.32,,Online
+ORD-10776,05/05/2024,EAST,Derek Stone,Consulting,Strategy Session,Startup,46,714.94,0.17,27296.41,WON,Referral
+ORD-10751,03/11/2024,,James Carter,Services,Migration,Startup,14,3586.34,0.31,34644.04,WON,partner
+ORD-10290,15-02-2024,west,Liam Brooks,Software,DataVault,ENTERPRISE,5,4006.01,0.01,19829.75,pending,online
+ORD-10016,06-03-2022,north,Ethan Ross,Hardware,Edge Router,SMB,9,3630.6,0.31,22546.03,PENDING,online
+ORD-10158,06-08-2022,South,Zoe Nguyen,Software,CloudDash,SMB,7,300.5,0.33,1409.34,,partner
+ORD-10243,"July 10, 2022",central,Nina Torres,Software,DataVault,startup,32,1379.26,0.29,31336.79,Lost,partner
+ORD-10066,06/03/2022,North,Liam Brooks,Consulting,Audit Package,Enterprise,19,3549.43,0.25,50579.38,Lost,Referral
+ORD-10907,17-09-2022,south,Zoe Nguyen,Hardware,Switch Pro,smb,48,4054.61,0.15,165428.09,pending,partner
+ORD-10359,07/02/2024,west,Zoe Nguyen,Consulting,Audit Package,SMB,33,457.61,0.03,14648.1,,DIRECT
+ORD-10935,08/19/2023,west,,Hardware,ServerX,enterprise,48,1711.6,0.17,68190.14,lost,online
+ORD-10631,04/16/2024,North,Derek Stone,Services,Migration,SMB,38,3437.12,0.16,109712.87,LOST,
+ORD-10504,11/29/2023,Central,Liam Brooks,Consulting,Roadmap Workshop,SMB,43,3364.55,0.26,107059.98,WON,online
+ORD-10472,15-05-2024,Central,,Subscriptions,Pro Plan,start-up,47,2528.26,0.06,111698.53,won,Partner
+ORD-10945,20-06-2023,Central,Derek Stone,Hardware,Edge Router,,9,3432.44,0.07,28729.52,In Progress,direct
+ORD-10577,04/08/2024,NORTH,Aisha Patel,Hardware,Switch Pro,start-up,20,4181.2,0.11,74425.36,Won,Partner
+ORD-10025,2022-05-29,West,Mia Fernandez,Subscriptions,Basic Plan,SMB,17,705.66,0.12,10556.67,PENDING,Online
+ORD-10521,"May 03, 2023",central,Marcus Webb,Hardware,Switch Pro,Enterprise,49,4106.68,0.02,197202.77,lost,Partner
+ORD-10857,2022-06-06,NORTH,Marcus Webb,Services,Migration,start-up,5,610.16,0.15,2593.18,pending,Partner
+ORD-10530,03/15/2024,central,,Software,CloudDash,SMB,42,575.94,0.15,20561.06,,Online
+ORD-10408,"November 03, 2022",,Marcus Webb,Consulting,Strategy Session,Startup,20,1292.32,0.3,18092.48,pending,partner
+ORD-10665,05/08/2022,Central,Sophia Lee,Subscriptions,Enterprise Plan,enterprise,41,634.39,0.07,24189.29,WON,Partner
+ORD-10883,2024-09-02,south,Zoe Nguyen,Software,CloudDash,ENTERPRISE,21,2862.62,0.35,39074.76,Lost,referral
+ORD-10432,27/08/2023,West,Aisha Patel,Subscriptions,Enterprise Plan,Startup,47,2368.55,0.3,77925.29,LOST,partner
+ORD-10431,"December 13, 2023",South,James Carter,Consulting,Roadmap Workshop,ENTERPRISE,3,2452.25,0.15,6253.24,lost,Direct
+ORD-10484,12/26/2023,Central,Mia Fernandez,Consulting,Audit Package,ENTERPRISE,15,3557.51,0.34,35219.35,In Progress,DIRECT
+ORD-10151,"September 26, 2023",West,Ethan Ross,Consulting,Roadmap Workshop,enterprise,21,3229.58,0.16,56969.79,WON,Direct
+ORD-10327,11/09/2022,south,Zoe Nguyen,Hardware,ServerX,smb,43,549.85,0.18,,Pending,Referral
+ORD-10256,2023-07-23,,Sophia Lee,Subscriptions,Basic Plan,Startup,38,3189.76,0.29,86059.72,Pending,Partner
+ORD-10311,01/18/2022,south,Mia Fernandez,Services,Training,startup,23,2322.04,0.08,49134.37,Pending,partner
+ORD-10787,25-11-2022,,Derek Stone,Hardware,Switch Pro,start-up,43,721.99,0.19,25146.91,won,direct
+ORD-10304,2024-04-02,EAST,Nina Torres,Hardware,Edge Router,smb,2,1722.44,0.28,2480.31,LOST,Direct
+ORD-10413,20-08-2023,Central,Liam Brooks,Services,Training,start-up,11,960.24,0.01,10457.01,Pending,
+ORD-10133,22-07-2022,NORTH,Marcus Webb,Software,CloudDash,ENTERPRISE,29,3095.97,0.32,61052.53,pending,Direct
+ORD-10031,12/04/2024,NORTH,Aisha Patel,Hardware,Edge Router,Enterprise,48,4626.21,0.27,162102.4,WON,partner
+ORD-10765,02/09/2023,EAST,Marcus Webb,Subscriptions,Pro Plan,smb,29,4840.24,0.07,130541.27,In Progress,direct
+ORD-10458,10-07-2023,north,James Carter,Services,Migration,SMB,33,4884.23,0.03,156344.2,Pending,Referral
+ORD-10161,21-08-2024,west,James Carter,Software,DataVault,smb,49,2046.11,0.02,98254.2,LOST,online
+ORD-10339,2024-07-06,West,Zoe Nguyen,Services,Migration,Enterprise,26,2091.08,0.19,44038.14,won,DIRECT
+ORD-10286,01/01/2024,central,Mia Fernandez,Hardware,Switch Pro,smb,12,3657.71,0.33,,WON,DIRECT
+ORD-10248,2024-06-30,North,Nina Torres,Software,DataVault,start-up,15,1946.2,0.26,,won,Online
+ORD-10463,"November 06, 2023",west,Marcus Webb,Hardware,NAS Drive,,20,3458.23,0.31,47723.57,WON,Partner
+ORD-10579,"January 03, 2023",central,Aisha Patel,Software,AutoSync,,39,3740.55,0.2,116705.16,won,Direct
+ORD-10819,17/12/2024,North,Mia Fernandez,Consulting,Roadmap Workshop,SMB,5,1866.9,0.05,8867.77,WON,partner
+ORD-10013,2022-06-11,West,Sophia Lee,Subscriptions,Basic Plan,start-up,11,1362.03,0.31,,PENDING,DIRECT
+ORD-10001,22/04/2023,Central,James Carter,Subscriptions,Enterprise Plan,startup,29,2966.87,0.28,61948.25,Lost,DIRECT
+ORD-10736,"March 06, 2023",,Ethan Ross,Software,DataVault,ENTERPRISE,48,97.92,0.28,,lost,Online
+ORD-10207,31-08-2024,North,Sophia Lee,Services,Onboarding,ENTERPRISE,2,4809.27,0.21,7598.65,LOST,direct
+ORD-10629,02-07-2022,NORTH,Mia Fernandez,Software,CloudDash,,8,1161.2,0.07,8639.33,pending,DIRECT
+ORD-10915,"July 17, 2023",north,Sophia Lee,Consulting,Roadmap Workshop,Startup,25,1220.29,0.01,30202.18,In Progress,online
+ORD-10833,04/19/2023,,Liam Brooks,Consulting,Roadmap Workshop,startup,20,594.77,0.13,10349.0,Won,Direct
+ORD-10842,19/01/2022,West,Ethan Ross,Subscriptions,Pro Plan,SMB,46,1379.15,0.04,60903.26,lost,Partner
+ORD-10264,29-09-2023,north,Ethan Ross,Consulting,Audit Package,SMB,37,3933.31,0.26,107694.03,lost,direct
+ORD-10274,22/06/2022,,Derek Stone,Software,CRM Pro,SMB,9,505.29,0.3,3183.33,pending,Direct
+ORD-10070,07/07/2022,central,,Subscriptions,Enterprise Plan,smb,3,3827.39,0.06,0.0,In Progress,online
+ORD-10640,11/03/2023,North,Ethan Ross,Subscriptions,Pro Plan,enterprise,50,2515.65,0.03,122009.02,Lost,Direct
+ORD-10444,2023-09-11,,Aisha Patel,Hardware,ServerX,smb,33,2803.8,0.32,,PENDING,Direct
+ORD-10829,17-04-2022,EAST,Mia Fernandez,Software,CloudDash,smb,32,458.94,0.15,12483.17,lost,Partner
+ORD-10098,01/03/2023,South,Aisha Patel,Services,Onboarding,smb,9,2724.07,0.28,17651.97,WON,Referral
+ORD-10848,12/27/2022,Central,Zoe Nguyen,Hardware,Switch Pro,Enterprise,11,4432.0,0.29,34613.92,lost,Partner
+ORD-10021,"August 08, 2023",west,Zoe Nguyen,Hardware,Switch Pro,SMB,38,3691.9,0.02,137486.36,Won,Referral
+ORD-10705,27/12/2024,south,Ethan Ross,Consulting,Audit Package,Enterprise,28,4229.49,0.14,,LOST,direct
+ORD-10414,26-04-2023,north,,Hardware,ServerX,,31,2764.75,0.01,,won,
+ORD-10517,24-12-2023,,Marcus Webb,Software,AutoSync,Enterprise,38,886.94,0.02,33029.65,pending,DIRECT
+ORD-10149,2023-12-13,west,Ethan Ross,Services,Support Plan,ENTERPRISE,33,1160.0,0.34,25264.8,LOST,Online
+ORD-10647,04/05/2023,West,Ethan Ross,Subscriptions,Pro Plan,start-up,6,4540.68,0.17,22612.59,Pending,
+ORD-10354,27-05-2024,west,Derek Stone,Hardware,Switch Pro,Enterprise,30,3562.96,0.05,101544.36,LOST,Direct
+ORD-10933,"November 12, 2023",NORTH,James Carter,Consulting,Audit Package,,17,4412.22,0.06,70507.28,WON,partner
+ORD-10052,10-08-2024,East,Marcus Webb,Subscriptions,Basic Plan,smb,38,177.11,0.11,5989.86,won,referral
+ORD-10198,21-02-2023,East,Liam Brooks,Software,DataVault,Enterprise,36,4677.05,,134699.04,lost,referral
+ORD-10122,"June 15, 2024",,Ethan Ross,Subscriptions,Pro Plan,Startup,25,2073.41,0.12,45615.02,lost,DIRECT
+ORD-10203,04/02/2022,south,Ethan Ross,Services,Migration,ENTERPRISE,7,2645.71,0.08,17038.37,won,direct
+ORD-10067,2024-07-18,central,Aisha Patel,Services,Support Plan,startup,9999,1162.81,,38663.43,won,Online
+ORD-10223,31/03/2023,west,Ethan Ross,Subscriptions,Pro Plan,Startup,30,3873.09,0.21,91792.23,Pending,referral
+ORD-10127,2024-12-14,central,Nina Torres,Subscriptions,Enterprise Plan,startup,11,945.19,0.24,7901.79,WON,Online
+ORD-10655,26-06-2022,West,Marcus Webb,Consulting,Strategy Session,enterprise,10,3706.97,0.16,31138.55,WON,Online
+ORD-10139,17-03-2022,South,James Carter,Hardware,Switch Pro,smb,26,4946.16,0.19,104166.13,PENDING,Direct
+ORD-10417,12/07/2023,West,Marcus Webb,Subscriptions,Enterprise Plan,start-up,28,2641.13,0.22,57682.28,In Progress,referral
+ORD-10218,26-03-2024,,Zoe Nguyen,Subscriptions,Pro Plan,startup,0,1856.83,0.33,32345.98,lost,direct
+ORD-10546,"November 02, 2022",West,Marcus Webb,Hardware,ServerX,Enterprise,19,1087.47,0.09,18802.36,LOST,Online
+ORD-10157,22-02-2023,Central,Marcus Webb,Services,Training,Startup,9,3815.29,0.18,28156.84,Pending,Direct
+ORD-10094,2024-10-05,,Aisha Patel,Subscriptions,Pro Plan,,43,4749.43,0.24,155211.37,LOST,Online
+ORD-10255,26/03/2024,south,Ethan Ross,Consulting,Roadmap Workshop,,41,2706.0,0.22,86537.88,won,Online
+ORD-10222,2022-06-24,South,Nina Torres,Hardware,ServerX,startup,28,574.43,0.03,15601.52,LOST,Online
+ORD-10643,09/22/2022,North,Derek Stone,Services,Onboarding,startup,26,1313.06,0.08,31408.4,won,Online
+ORD-10738,10/12/2022,East,Mia Fernandez,Subscriptions,Pro Plan,SMB,5,2695.73,0.07,12535.14,Pending,DIRECT
+ORD-10039,2022-12-14,south,Ethan Ross,Subscriptions,Basic Plan,SMB,15,4042.49,0.05,57605.48,lost,Direct
+ORD-10130,"December 16, 2024",NORTH,Aisha Patel,Subscriptions,Pro Plan,Enterprise,24,2794.98,0.04,64396.34,pending,DIRECT
+ORD-10694,10/21/2024,NORTH,Nina Torres,Subscriptions,Basic Plan,,29,256.87,0.28,5363.45,PENDING,Referral
+ORD-10189,2023-01-22,North,Liam Brooks,Subscriptions,Basic Plan,SMB,7,2990.02,0.16,17581.32,won,Direct
+ORD-10942,03/25/2022,south,Mia Fernandez,Software,CloudDash,smb,28,1793.66,0.29,35657.96,Won,Online
+ORD-10589,02/14/2023,central,Nina Torres,Software,DataVault,smb,23,1793.41,0.3,28873.9,In Progress,online
+ORD-10402,2022-08-07,north,Zoe Nguyen,Subscriptions,Enterprise Plan,,24,3122.3,0.17,62196.22,pending,Online
+ORD-10760,05/27/2024,Central,Sophia Lee,Software,AutoSync,start-up,13,800.77,0.07,9681.31,lost,direct
+ORD-10038,01-01-2022,south,Aisha Patel,Consulting,Audit Package,start-up,44,1107.82,0.17,40457.59,pending,Partner
+ORD-10242,"July 10, 2022",west,Derek Stone,Services,Migration,Startup,1,4351.09,0.3,3045.76,In Progress,
+ORD-10353,02/07/2023,south,Zoe Nguyen,Hardware,ServerX,ENTERPRISE,48,2593.54,0.13,108306.23,,online
+ORD-10620,07/23/2023,East,Zoe Nguyen,Services,Onboarding,Enterprise,45,4591.41,0.24,157026.22,Won,Online
+ORD-10650,2022-02-03,central,Zoe Nguyen,Hardware,Edge Router,Enterprise,27,4389.94,0.1,106675.54,won,
+ORD-10534,05-07-2022,,Nina Torres,Software,AutoSync,SMB,36,244.69,0.13,7663.69,WON,Partner
+ORD-10503,11/09/2023,West,,Subscriptions,Basic Plan,SMB,11,4870.76,,46613.17,PENDING,referral
+ORD-10159,05/06/2024,NORTH,Nina Torres,Subscriptions,Basic Plan,ENTERPRISE,33,2360.73,0.31,53753.82,pending,Partner
+ORD-10394,2022-11-19,south,,Services,Migration,startup,13,2612.83,0.26,25135.42,In Progress,Partner
+ORD-10537,"March 29, 2022",north,Aisha Patel,Subscriptions,Enterprise Plan,ENTERPRISE,15,4627.84,0.01,68723.42,In Progress,Online
+ORD-10695,08/16/2023,North,James Carter,Consulting,Roadmap Workshop,smb,23,4220.07,0.07,90267.3,Pending,direct
+ORD-10240,07/15/2022,EAST,James Carter,Services,Support Plan,,10,3571.4,0.29,25356.94,Lost,Online
+ORD-10013,2022-06-11,West,Sophia Lee,Subscriptions,Basic Plan,start-up,11,1362.03,0.31,,PENDING,DIRECT
+ORD-10657,"June 03, 2024",West,Mia Fernandez,Subscriptions,Basic Plan,start-up,32,2591.11,0.25,62186.64,Pending,referral
+ORD-10475,13/11/2024,NORTH,Liam Brooks,Subscriptions,Basic Plan,ENTERPRISE,37,4362.96,,113000.66,LOST,online
+ORD-10895,"February 05, 2023",north,Nina Torres,Consulting,Roadmap Workshop,startup,24,3921.87,0.18,77182.4,Won,referral
+ORD-10866,"January 23, 2022",EAST,Zoe Nguyen,Subscriptions,Enterprise Plan,smb,28,4660.68,,117449.14,Lost,Direct
+ORD-10314,09/04/2023,NORTH,Ethan Ross,Hardware,Edge Router,Startup,47,176.0,0.17,6865.76,WON,direct
+ORD-10361,2024-06-10,central,Marcus Webb,Software,AutoSync,Enterprise,5,318.63,0.28,1147.07,won,
+ORD-10590,11/05/2023,Central,Sophia Lee,Software,DataVault,SMB,11,4513.22,0.19,40212.79,lost,DIRECT
+ORD-10320,2023-01-05,West,Nina Torres,Hardware,ServerX,Enterprise,18,1086.44,0.27,14275.82,pending,Direct
+ORD-10904,06/06/2022,central,Liam Brooks,Consulting,Roadmap Workshop,start-up,12,1528.84,0.32,12475.33,WON,online
+ORD-10034,29/03/2024,East,James Carter,Software,DataVault,smb,7,3003.03,0.12,18498.66,Won,Partner
+ORD-10672,24-06-2024,central,Liam Brooks,Hardware,ServerX,Enterprise,22,1980.47,,32677.76,PENDING,
+ORD-10564,08/21/2023,north,James Carter,Hardware,Switch Pro,,22,3296.01,,52208.8,In Progress,Direct
+ORD-10355,11-11-2022,Central,James Carter,Subscriptions,Pro Plan,Startup,46,1623.4,0.08,68702.29,won,Partner
+ORD-10034,29/03/2024,East,James Carter,Software,DataVault,smb,7,3003.03,0.12,18498.66,Won,Partner
+ORD-10334,"February 29, 2024",EAST,Marcus Webb,Software,CRM Pro,,27,-50.0,0.17,102202.37,won,referral
+ORD-10688,2024-06-28,west,Mia Fernandez,Services,Onboarding,start-up,22,2213.24,0.15,41387.59,Won,Online
+ORD-10376,2023-10-26,west,Derek Stone,Services,Support Plan,startup,24,2959.01,0.31,49001.21,Pending,DIRECT
+ORD-10184,2024-09-28,west,Zoe Nguyen,Software,DataVault,startup,37,335.8,0.16,10436.66,pending,online
+ORD-10823,11-01-2022,NORTH,Liam Brooks,Services,Onboarding,startup,13,469.48,0.18,5004.66,pending,Online
+ORD-10423,20-01-2023,North,Marcus Webb,Software,DataVault,enterprise,18,668.94,0.15,,lost,partner
+ORD-10325,2024-04-06,South,Aisha Patel,Hardware,ServerX,,24,3569.99,0.28,61689.43,won,Online
+ORD-10187,"February 13, 2024",north,Ethan Ross,Hardware,Switch Pro,enterprise,35,1995.64,0.04,67053.5,WON,Online
+ORD-10284,2023-10-25,North,Marcus Webb,Subscriptions,Basic Plan,Startup,24,3537.46,,65372.26,won,online
+ORD-10391,04/17/2022,EAST,James Carter,Software,CloudDash,startup,5,1352.31,0.13,5882.55,won,online
+ORD-10955,"September 10, 2022",NORTH,James Carter,Hardware,NAS Drive,ENTERPRISE,9999,3513.16,0.07,156827.46,PENDING,Referral
+ORD-10165,05/09/2023,East,Ethan Ross,Subscriptions,Enterprise Plan,,2,1873.37,,2847.52,pending,referral
+ORD-10347,07/16/2024,NORTH,Liam Brooks,Subscriptions,Enterprise Plan,Startup,41,1125.85,0.07,42928.66,PENDING,Direct
+ORD-10298,"December 06, 2024",west,Zoe Nguyen,Subscriptions,Pro Plan,smb,26,4518.75,,88115.62,won,direct
+ORD-10535,27-01-2023,EAST,Sophia Lee,Services,Onboarding,start-up,9,226.71,0.01,2019.99,Lost,Referral
+ORD-10229,09/05/2022,north,Ethan Ross,Hardware,Switch Pro,SMB,8,1348.65,0.3,7552.44,pending,online
+ORD-10859,27/04/2024,central,Nina Torres,Hardware,NAS Drive,startup,36,2510.66,0.19,73210.85,Pending,Referral
+ORD-10827,08-09-2024,north,Liam Brooks,Consulting,Roadmap Workshop,ENTERPRISE,49,3833.74,,129618.75,LOST,Direct
+ORD-10694,10/21/2024,NORTH,Nina Torres,Subscriptions,Basic Plan,,29,256.87,0.28,5363.45,PENDING,Referral
+ORD-10855,06/06/2022,East,Sophia Lee,Services,Onboarding,ENTERPRISE,28,2675.88,0.21,59190.47,WON,online
+ORD-10041,2022-01-12,EAST,Aisha Patel,Hardware,Edge Router,Enterprise,16,4591.48,0.04,70525.13,PENDING,DIRECT
+ORD-10868,"June 08, 2022",West,Nina Torres,Consulting,Strategy Session,,42,2149.9,,82169.18,LOST,DIRECT
+ORD-10748,04-12-2022,South,Ethan Ross,Software,CRM Pro,enterprise,25,1751.11,0.14,37648.86,pending,Partner
+ORD-10921,10/10/2022,West,Sophia Lee,Hardware,NAS Drive,startup,43,655.75,,23121.75,pending,referral
+ORD-10862,23/10/2022,EAST,,Hardware,ServerX,ENTERPRISE,45,3534.62,0.13,138380.37,won,DIRECT
+ORD-10587,2024-05-20,north,James Carter,Consulting,Strategy Session,SMB,3,3975.62,0.18,9780.03,won,Online
+ORD-10543,"August 05, 2023",West,Marcus Webb,Hardware,Switch Pro,start-up,16,4693.54,0.21,59326.35,Pending,Direct
+ORD-10446,2023-09-08,Central,Liam Brooks,Subscriptions,Enterprise Plan,enterprise,31,905.87,0.29,19938.2,LOST,Online
+ORD-10447,15/07/2022,central,Derek Stone,Software,CRM Pro,Enterprise,23,4404.97,0.15,86117.16,LOST,online
+ORD-10349,04/05/2024,south,Liam Brooks,Software,CRM Pro,startup,4,3367.76,0.07,12528.07,WON,DIRECT
+ORD-10045,"April 29, 2024",East,Ethan Ross,Consulting,Strategy Session,SMB,25,4528.95,0.2,90579.0,Pending,referral
+ORD-10232,"November 12, 2024",EAST,Mia Fernandez,Hardware,Edge Router,startup,32,3195.73,0.24,77720.15,WON,Online
+ORD-10108,27-11-2023,North,Marcus Webb,Hardware,Edge Router,enterprise,48,3184.2,0.01,151313.18,WON,referral
+ORD-10617,03/23/2024,South,Sophia Lee,Subscriptions,Enterprise Plan,smb,6,1228.48,0.04,7076.04,pending,Partner
+ORD-10661,"January 08, 2024",NORTH,Mia Fernandez,Hardware,ServerX,start-up,12,1037.45,0.21,9835.03,WON,referral
+ORD-10029,06/21/2023,West,Ethan Ross,Consulting,Strategy Session,enterprise,35,228.34,0.13,6952.95,WON,referral
+ORD-10181,10/04/2024,south,Sophia Lee,Services,Support Plan,SMB,31,808.27,0.26,18541.71,WON,Direct
+ORD-10621,03/06/2023,EAST,Derek Stone,Services,Onboarding,SMB,25,88.94,0.34,1467.51,pending,Partner
+ORD-10419,01/01/2022,NORTH,Nina Torres,Services,Onboarding,start-up,20,95.21,0.15,1618.57,pending,Online
+ORD-10634,19-03-2024,NORTH,Ethan Ross,Software,AutoSync,ENTERPRISE,32,4655.12,0.31,102785.05,PENDING,Online
+ORD-10256,2023-07-23,,Sophia Lee,Subscriptions,Basic Plan,Startup,38,3189.76,0.29,86059.72,Pending,Partner
+ORD-10104,14-07-2022,EAST,Nina Torres,Services,Support Plan,start-up,6,4167.27,0.03,24253.51,won,Online
+ORD-10060,30-01-2023,north,Ethan Ross,Hardware,NAS Drive,start-up,47,2968.46,0.27,101847.86,lost,referral
+ORD-10658,09/26/2024,North,Ethan Ross,Software,AutoSync,enterprise,42,2114.83,0.17,73722.97,lost,DIRECT
+ORD-10083,2023-04-11,EAST,Sophia Lee,Software,DataVault,smb,3,1655.65,0.02,4867.61,Won,Online
+ORD-10490,2023-12-26,NORTH,Derek Stone,Software,CloudDash,ENTERPRISE,39,1978.35,0.21,60952.96,In Progress,referral
+ORD-10315,29-08-2023,EAST,Liam Brooks,Consulting,Roadmap Workshop,SMB,47,3581.18,0.24,127919.75,LOST,Direct
+ORD-10450,28-09-2022,north,,Subscriptions,Enterprise Plan,startup,6,2022.71,,10315.82,lost,online
+ORD-10381,04/01/2023,EAST,Mia Fernandez,Subscriptions,Enterprise Plan,smb,14,2273.56,0.35,20689.4,won,referral
+ORD-10422,04/25/2024,north,Marcus Webb,Hardware,ServerX,start-up,29,1397.06,0.22,31601.5,In Progress,direct
+ORD-10496,2024-06-22,south,Marcus Webb,Hardware,ServerX,Enterprise,36,2594.6,0.07,86867.21,In Progress,partner
+ORD-10938,01-06-2024,South,Sophia Lee,Hardware,ServerX,smb,29,4937.29,0.31,98795.17,PENDING,DIRECT
+ORD-10739,11-08-2022,Central,Zoe Nguyen,Services,Support Plan,enterprise,12,208.69,0.24,1903.25,PENDING,Partner
+ORD-10523,25-01-2022,West,Liam Brooks,Services,Onboarding,enterprise,41,1801.45,0.3,51701.61,PENDING,Referral
+ORD-10445,2022-11-13,North,Zoe Nguyen,Services,Support Plan,smb,38,1286.79,0.09,44497.2,LOST,DIRECT
+ORD-10663,2024-10-28,north,Nina Torres,Consulting,Roadmap Workshop,SMB,36,1159.27,0.09,37977.69,won,referral
+ORD-10000,2022-08-17,south,Aisha Patel,Hardware,ServerX,enterprise,28,207.32,0.03,5630.81,In Progress,Online
+ORD-10779,02/03/2022,South,Zoe Nguyen,Consulting,Strategy Session,Enterprise,49,4778.31,0.23,180285.64,,DIRECT
+ORD-10933,"November 12, 2023",NORTH,James Carter,Consulting,Audit Package,,17,4412.22,0.06,70507.28,WON,partner
+ORD-10626,24/09/2022,central,Liam Brooks,Services,Migration,ENTERPRISE,12,3452.96,,29419.22,lost,direct
+ORD-10457,06/08/2023,North,Derek Stone,Hardware,Switch Pro,Enterprise,42,4728.62,0.02,194630.0,pending,direct
+ORD-10488,2024-08-29,,Marcus Webb,Consulting,Roadmap Workshop,start-up,22,2339.23,0.28,37053.4,PENDING,partner
+ORD-10088,2023-07-17,Central,James Carter,Subscriptions,Pro Plan,SMB,23,1134.07,0.07,24257.76,In Progress,online
+ORD-10483,12/08/2022,central,Ethan Ross,Software,AutoSync,startup,21,1335.32,0.2,22433.38,In Progress,online
+ORD-10460,20-12-2024,East,,Consulting,Strategy Session,Startup,23,3144.89,0.08,66545.87,LOST,Direct
+ORD-10077,11/06/2024,north,Derek Stone,Consulting,Roadmap Workshop,smb,19,3643.95,0.29,49156.89,Won,partner
+ORD-10268,"October 01, 2022",north,Mia Fernandez,Subscriptions,Pro Plan,ENTERPRISE,19,1341.91,0.11,22691.7,Lost,DIRECT
+ORD-10929,20/07/2023,Central,Zoe Nguyen,Subscriptions,Basic Plan,Enterprise,8,1136.92,0.02,8913.45,Lost,DIRECT
+ORD-10123,18-04-2022,north,Nina Torres,Software,AutoSync,smb,10,1700.14,0.2,13601.12,,Partner
+ORD-10297,05/07/2023,North,Marcus Webb,Software,AutoSync,startup,15,2790.33,0.29,29717.01,In Progress,Direct
+ORD-10881,05/30/2022,EAST,,Software,CloudDash,start-up,30,590.14,0.06,16641.95,PENDING,Online
+ORD-10095,08/05/2024,NORTH,Liam Brooks,Software,CloudDash,smb,45,1884.12,,71219.74,Won,
+ORD-10733,07-02-2023,south,Derek Stone,Services,Support Plan,smb,50,1532.4,0.29,54400.2,Won,Referral
+ORD-10011,24/06/2023,NORTH,Ethan Ross,Software,DataVault,ENTERPRISE,49,849.67,0.33,27894.67,LOST,Online
+ORD-10114,2023-12-27,EAST,James Carter,Consulting,Audit Package,enterprise,37,2174.96,0.14,69207.23,LOST,
+ORD-10843,2023-04-04,west,Aisha Patel,Services,Support Plan,smb,18,4373.25,0.02,77144.13,WON,Referral
+ORD-10428,09/04/2023,East,James Carter,Hardware,NAS Drive,startup,1,878.43,0.1,790.59,LOST,Referral
+ORD-10257,16-05-2022,EAST,Aisha Patel,Software,CRM Pro,startup,30,3080.87,0.02,90577.58,won,Direct
+ORD-10731,12-10-2023,EAST,James Carter,Hardware,NAS Drive,smb,23,4512.31,0.1,,won,referral
+ORD-10764,02/23/2023,north,Marcus Webb,Subscriptions,Basic Plan,enterprise,47,2362.02,0.06,104354.04,Pending,Online
+ORD-10352,03/10/2023,North,James Carter,Services,Migration,SMB,49,2962.51,0.26,107420.61,LOST,DIRECT
+ORD-10770,"May 26, 2022",North,Sophia Lee,Consulting,Strategy Session,startup,50,4569.78,0.25,171366.75,lost,DIRECT
+ORD-10773,2022-01-26,north,Liam Brooks,Consulting,Roadmap Workshop,SMB,11,4157.26,0.09,41614.17,Pending,Referral
+ORD-10690,12-11-2022,EAST,Marcus Webb,Software,DataVault,Enterprise,20,1980.2,0.11,35247.56,Won,Direct
+ORD-10922,"September 05, 2024",south,Nina Torres,Consulting,Strategy Session,smb,46,459.83,0.2,16921.74,lost,Online
+ORD-10790,26/08/2022,East,Marcus Webb,Services,Onboarding,smb,38,2701.24,,71852.98,Won,Online
+ORD-10531,2023-06-15,North,Sophia Lee,Software,CloudDash,Enterprise,10,3281.68,0.0,32816.8,pending,referral
+ORD-10867,08/07/2022,EAST,Marcus Webb,Hardware,ServerX,SMB,12,4121.4,0.34,32641.49,Pending,DIRECT
+ORD-10169,06/09/2024,EAST,Nina Torres,Hardware,Switch Pro,Startup,40,2446.69,,64592.62,lost,Partner
+ORD-10239,26-12-2024,Central,Ethan Ross,Hardware,Switch Pro,smb,18,4764.37,,70322.1,In Progress,DIRECT
+ORD-10277,"October 18, 2024",west,Zoe Nguyen,Software,AutoSync,startup,27,1037.32,0.31,19325.27,WON,referral
+ORD-10160,2024-10-15,north,Liam Brooks,Subscriptions,Basic Plan,,23,290.86,0.1,6020.8,In Progress,Referral
+ORD-10073,2023-10-25,EAST,Ethan Ross,Software,CloudDash,Enterprise,34,1840.81,0.26,46314.78,Lost,direct
+ORD-10529,"May 08, 2022",EAST,Nina Torres,Software,AutoSync,ENTERPRISE,5,2484.02,0.33,8321.47,pending,direct
+ORD-10062,22/04/2022,south,Marcus Webb,Consulting,Strategy Session,smb,31,2230.32,0.06,64991.52,pending,DIRECT
+ORD-10761,03/19/2022,Central,Zoe Nguyen,Services,Training,Startup,34,3969.31,0.15,114713.06,,Direct
+ORD-10492,11-12-2024,NORTH,Sophia Lee,Services,Support Plan,enterprise,33,173.43,,4750.25,pending,Partner
+ORD-10740,2024-09-27,NORTH,Aisha Patel,Software,AutoSync,SMB,19,3314.87,0.02,61722.88,,direct
+ORD-10750,"May 12, 2023",NORTH,Zoe Nguyen,Services,Support Plan,Enterprise,7,927.32,0.04,6231.59,In Progress,referral
+ORD-10741,28-04-2022,west,James Carter,Hardware,Edge Router,startup,8,689.23,0.15,4686.76,WON,Partner
+ORD-10830,09/11/2022,NORTH,Aisha Patel,Services,Training,SMB,13,2395.77,0.27,22735.86,Pending,Online
+ORD-10795,27-08-2024,EAST,Liam Brooks,Software,AutoSync,SMB,26,531.73,0.11,12304.23,PENDING,partner
+ORD-10047,"March 28, 2023",South,,Consulting,Strategy Session,startup,43,3411.75,0.14,126166.51,LOST,online
+ORD-10762,2023-08-14,South,Nina Torres,Services,Support Plan,Enterprise,44,3496.58,0.08,141541.56,Lost,DIRECT
+ORD-10591,07/22/2022,west,Zoe Nguyen,Services,Support Plan,start-up,12,4181.97,0.34,33121.2,won,Partner
+ORD-10807,19/03/2023,East,Derek Stone,Hardware,Edge Router,,17,1340.34,0.23,17545.05,PENDING,Direct
+ORD-10871,2024-09-17,North,Nina Torres,Software,CRM Pro,Startup,26,2526.07,0.11,58453.26,lost,Partner
+ORD-10505,2024-09-23,Central,Mia Fernandez,Consulting,Roadmap Workshop,enterprise,12,1574.78,0.14,16251.73,pending,direct
+ORD-10020,"September 21, 2024",South,Liam Brooks,Software,CloudDash,Enterprise,17,4636.26,0.27,57535.99,Pending,online
+ORD-10812,09/10/2022,west,Derek Stone,Subscriptions,Basic Plan,Startup,19,2780.13,0.21,41729.75,In Progress,
+ORD-10424,01/17/2022,north,Marcus Webb,Software,DataVault,Startup,20,3939.34,0.17,65393.04,Pending,online
+ORD-10652,"August 06, 2022",west,James Carter,Software,CRM Pro,Enterprise,42,2411.74,0.24,76982.74,WON,online
+ORD-10192,"December 25, 2022",west,Zoe Nguyen,Software,CloudDash,Startup,27,788.63,0.13,18524.92,Pending,Online
+ORD-10642,"September 09, 2024",central,Derek Stone,Subscriptions,Pro Plan,Enterprise,29,1658.33,,35587.76,In Progress,Direct
+ORD-10215,12-10-2022,south,Derek Stone,Consulting,Strategy Session,ENTERPRISE,18,-50.0,0.17,31888.83,Pending,online
+ORD-10244,23/11/2023,Central,Marcus Webb,Subscriptions,Pro Plan,Enterprise,7,3149.59,,15653.46,Won,direct
+ORD-10363,2024-12-31,central,Mia Fernandez,Software,CRM Pro,Startup,7,1484.69,0.24,7898.55,PENDING,Direct
+ORD-10059,"January 26, 2024",west,Ethan Ross,Services,Training,Startup,18,1567.78,0.08,25962.44,pending,DIRECT
+ORD-10221,2024-02-12,West,Mia Fernandez,Consulting,Roadmap Workshop,startup,3,3964.07,0.13,10346.22,PENDING,Direct
+ORD-10176,2023-08-16,North,Derek Stone,Subscriptions,Pro Plan,,42,2739.34,,95493.39,pending,referral
+ORD-10449,01/11/2023,South,Marcus Webb,Software,CloudDash,enterprise,28,1484.43,0.14,35745.07,Lost,Partner
+ORD-10055,07/30/2024,EAST,Marcus Webb,Subscriptions,Enterprise Plan,start-up,28,4137.39,0.21,91519.07,pending,online
+ORD-10803,2023-01-04,west,Zoe Nguyen,Services,Onboarding,ENTERPRISE,14,3280.57,0.03,44550.14,In Progress,partner
+ORD-10254,11-05-2024,west,Marcus Webb,Consulting,Strategy Session,enterprise,17,1117.93,0.32,12923.27,Won,Online
+ORD-10919,04-08-2022,EAST,Aisha Patel,Hardware,NAS Drive,Startup,1,4673.85,0.3,3271.7,,Referral
+ORD-10385,24/09/2022,west,James Carter,Consulting,Audit Package,Enterprise,28,1185.96,0.28,23908.95,PENDING,DIRECT
+ORD-10948,"April 20, 2024",North,Ethan Ross,Software,CRM Pro,ENTERPRISE,20,3943.83,0.2,63101.28,In Progress,referral
+ORD-10197,28-12-2024,south,Derek Stone,Services,Migration,,47,2373.98,0.29,79219.71,,Partner
+ORD-10068,06/29/2023,north,James Carter,Hardware,Switch Pro,start-up,30,3458.96,0.24,78864.29,won,direct
+ORD-10722,23-12-2022,west,Aisha Patel,Hardware,ServerX,ENTERPRISE,7,153.92,0.24,818.85,lost,online
+ORD-10744,21/05/2023,,Mia Fernandez,Consulting,Audit Package,Enterprise,19,3249.18,0.32,41979.41,won,referral
+ORD-10713,2023-11-27,West,Ethan Ross,Services,Support Plan,,1,2996.12,0.02,2936.2,won,Online
+ORD-10168,"February 22, 2023",west,Mia Fernandez,Consulting,Roadmap Workshop,ENTERPRISE,14,2826.39,0.35,25720.15,PENDING,Direct
+ORD-10185,2023-09-24,EAST,Derek Stone,Software,CRM Pro,Enterprise,23,3516.91,0.19,65520.03,Pending,Referral
+ORD-10035,"October 05, 2023",Central,,Software,DataVault,smb,46,2208.48,0.18,83303.87,Won,Online
+ORD-10641,2023-11-05,south,Sophia Lee,Consulting,Roadmap Workshop,,10,192.93,0.16,1620.61,LOST,online
